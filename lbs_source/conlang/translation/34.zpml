@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『迷走 Mind』</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>あとどれくらい進めばいいの?</ja><sh>{pa savat canisis a'l la ziked avôl epác?}</sh></li>
+    <li><ja>もう壊れそう</ja><sh>{fétat medelas e tel.}</sh></li>
+    <li><ja>この道を選んでひたすら突っ走ったよ</ja><sh>{za tikoses a'l e lôd afik, liloses vilisat a'l fa dupilom.}</sh></li>
+    <li><ja>でも苦しいの</ja><sh>{tálat tigumas e tel.}</sh></li>
+    <li><ja>Tenderness 差し伸べて</ja><sh>{e yerfis, calfosis a tel.}</sh></li>
+    <li><ja>温もりに触れたい</ja><sh>{rafat fisrefis a tel e fayim.}</sh></li>
+    <li><ja>ヘンだね この気持ち</ja><sh>{qilôtat, e rîf ite sot.}</sh></li>
+    <li><ja>何か変わってる</ja><sh>{ducatikat a tel e cal.}</sh></li>
+    <li><ja>Kindness 捧げたい</ja><sh>{e safiy, xolcasis a tel.}</sh></li>
+    <li><ja>その術がワカラナイ</ja><sh>{dusokat a tel e qîk ica cal.}</sh></li>
+    <li><ja>ひたすら堕ち続ける魂</ja><sh>{lilosac e'n bulvotac etut e xasol.}</sh></li>
+    <li><ja>届かないメッセージ 不可視なラビリンス</ja><sh>{voku kedpasif ifi xál adak, duqifat zêfiz a'l li kox i tel.}</sh></li>
+    <li><ja>心の安らぎ 導いてよ</ja><sh>{di'savacis ofev a'c e'n rakefac a yer i'l.}</sh></li>
+    <li><ja>突然の暗闇と溢れだす感情に</ja><sh>{voku sokul ifi jodog etut, volfosac zi tel e revez avêq.}</sh></li>
+    <li><ja>ひるまぬチカラを ボクに焼き付けて!</ja><sh>{di'silgidis a'c ca tel e kal ike'n dutisfizot e'l!}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『迷走 Mind』</ed></li>
+    <li><et>収録メディア</et><ed>アイドルマスター関連 CD『MASTER ARTIST 04』</ed></li>
+    <li><et>抜粋箇所</et><ed>ショートバージョン部分</ed></li>
+    <li><et>作詞者</et><ed>小野田裕之<small>様</small></ed></li>
+    <li><et>作曲者</et><ed>中川浩二<small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>1398</h> (初版 <h>1315</h>)</ed></li>
+  </el>
+  <p>
+    真の誕生日記念翻訳です。
+    メロディーに合わせて音節の数を合わせてあるので、実際に翻訳文を歌うこともできます。
+  </p>
+  <h1>考察点</h1>
+  <p>
+    5 フレーズ目と 9 フレーズ目は未来時制にして訳したが、他の時制や相にすべきだろうか。
+  </p>
+  <p>
+    7 フレーズ目は、{qilôt} を形容詞としてではなく動詞として用いた。
+    しかし、主語が {rîf ite sot} で「今現在の気持ち」なので、一時的な状態を表す動詞用法とは合わないように思われる。
+    形容詞として用いたいが、そうすると動詞として {sal} を入れなければならず、音節数が足りない。
+  </p>
+  <p>
+    8 フレーズ目は、原文を直訳してしまうと前のフレーズと表現が全く同じになってしまい違和感を感じたので、原文とは異なる文章にした。
+  </p>
+  <p>
+    「Tenderness」と「ヘンだね」と「Kindness」の 3 箇所に見られる押印は、翻訳文では再現できなかった。
+  </p>
+
+</page>

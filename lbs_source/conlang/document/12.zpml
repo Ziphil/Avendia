@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>辞書の凡例</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>品詞</h1>
+  <table>
+    <tr><th>漢字</th><th>英字</th><th>意味</th></tr>
+    <tr><td>動主</td><td>Vn</td><td>動詞型不定詞, 主格型</td></tr>
+    <tr><td>動対</td><td>Va</td><td>動詞型不定詞, 対格型</td></tr>
+    <tr><td>名</td><td>N</td><td>名詞型不定詞</td></tr>
+    <tr><td>副</td><td>B</td><td>副詞型不定詞</td></tr>
+    <tr><td>助</td><td>P</td><td>助接詞</td></tr>
+    <tr><td>助特</td><td>Ps</td><td>特殊助接詞</td></tr>
+    <tr><td>連</td><td>C</td><td>連結詞</td></tr>
+    <tr><td>間</td><td>I</td><td>間投詞</td></tr>
+    <tr><td>機</td><td>F</td><td>機能詞</td></tr>
+    <tr><td>飾</td><td>D</td><td>飾詞</td></tr>
+    <tr><td>縮</td><td>S</td><td>縮約形</td></tr>
+  </table>
+  <p>
+    副詞型不定詞を表す英字記号は、普通に adverb の頭文字の A を使っても良かったが、品詞用法の記号との統一を図るため B としている。
+    縮約形を表す S は、abbreviated から取ると形容詞を表す A と紛らわしいので、代わりに shortened の頭文字から取った。
+  </p>
+  <h1>品詞用法</h1>
+  <table>
+    <tr><th>漢字</th><th>英字</th><th>意味</th></tr>
+    <tr><td>動:自</td><td>V:I</td><td>動詞:自動詞</td></tr>
+    <tr><td>動:他</td><td>V:T</td><td>動詞:他動詞</td></tr>
+    <tr><td>名</td><td>N</td><td>名詞</td></tr>
+    <tr><td>名固</td><td>Np</td><td>固有名詞</td></tr>
+    <tr><td>形</td><td>A</td><td>形容詞</td></tr>
+    <tr><td>副動</td><td>Bv</td><td>副詞, 動詞修飾型</td></tr>
+    <tr><td>副形</td><td>Ba</td><td>副詞, 形容詞修飾型</td></tr>
+    <tr><td>副特</td><td>Bs</td><td>副詞, 特殊型</td></tr>
+    <tr><td>助動</td><td>Pv</td><td>助詞, 動詞修飾</td></tr>
+    <tr><td>助名</td><td>Pn</td><td>助詞, 名詞修飾</td></tr>
+    <tr><td>助形</td><td>Pa</td><td>助詞, 形容詞修飾</td></tr>
+    <tr><td>接動</td><td>Cv</td><td>接続詞, 動詞修飾</td></tr>
+    <tr><td>接形</td><td>Ca</td><td>接続詞, 形容詞修飾</td></tr>
+    <tr><td>接連</td><td>Cc</td><td>接続詞, 連結型 ({o}, {á}, {é}, {à} のみ) </td></tr>
+    <tr><td>間</td><td>I</td><td>間投詞</td></tr>
+    <tr><td>機疑</td><td>Fi</td><td>疑問機能詞 ({pa} のみ)</td></tr>
+    <tr><td>機節</td><td>Fc</td><td>節化機能詞 ({kin} のみ)</td></tr>
+    <tr><td>縮</td><td>S</td><td>縮約形</td></tr>
+  </table>
+  <p>
+    副詞を表す英字記号には、形容詞を表す A との衝突を避けるために A の次のラテン文字である B を採用している。
+  </p>
+  <p>
+    {pa} と {kin} はそれぞれ副詞と接続詞に分類されることもある。
+  </p>
+  <h1>関連語</h1>
+  <table>
+    <tr><th>漢字</th><th>英字</th><th>意味</th></tr>
+    <tr><td>類</td><td>S</td><td>類義語</td></tr>
+    <tr><td>対</td><td>A</td><td>対義語</td></tr>
+    <tr><td>関</td><td>R</td><td>その他の関連語</td></tr>
+  </table>
+  <p>
+    類義語でアスタリスクが付されているものは、その項目の語法欄に類義語の使い分けの詳細が記されていることを示す。
+  </p>
+  <h1>語源欄の省略記号</h1>
+  <table>
+    <tr><th>記号</th><th>意味</th></tr>
+    <tr><td>.n</td><td>名詞化アプラウト</td></tr>
+    <tr><td>.v</td><td>動詞化アプラウト</td></tr>
+    <tr><td>.tl</td><td>音写</td></tr>
+  </table>
+
+</page>

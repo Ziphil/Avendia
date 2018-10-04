@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>基本語順</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>スライド</h1>
+  <slide id="59afdb1c72e444d68dd81865bb7fe9ac"/>
+  <h1>新出単語</h1>
+  <p>
+    各単語をクリックすると、オンライン辞典のその単語の項目にジャンプします。
+  </p>
+  <ul class="triple">
+    <li>{vilis} ･･･ 走る</li>
+    <li>{a} ･･･ ～は</li>
+    <li>{tel} ･･･ 私</li>
+    <li>{vo} ･･･ ～で</li>
+    <li>{sod} ･･･ 家</li>
+    <li>{fe} ･･･ ～と一緒に</li>
+    <li>{refet} ･･･ 友達</li>
+    <li>{e} ･･･ ～を</li>
+    <li>{ca} ･･･ ～に</li>
+    <li>{zi} ･･･ ～から</li>
+    <li>{te} ･･･ ～に</li>
+    <li>{i} ･･･ ～の</li>
+    <li>{ces} ･･･ 彼</li>
+    <li>{fik} ･･･ この</li>
+    <li>{jôm} ･･･ 黒い</li>
+    <li>{xodol} ･･･ 高価な</li>
+    <li>{bam} ･･･ とても</li>
+    <li>{tut} ･･･ だけ</li>
+    <li>{feg} ･･･ 買う</li>
+    <li>{xoq} ･･･ 本</li>
+    <li>{mêl} ･･･ ゆっくり</li>
+  </ul>
+
+</page>

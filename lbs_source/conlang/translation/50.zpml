@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『Spring Screaming』</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>桜の木の下 君に出会いました</ja><sh>{tòdas otéc a tel e loc ca fîcdem izi nâd i halyef.}</sh></li>
+    <li><ja>浮ついた感情は舞う 花びらのように</ja><sh>{hirfisac ovel ifeli náy afik a revez avêq vo yer.}</sh></li>
+    <li><ja>春うらら 言葉疎ら</ja><sh>{te molaf anishar, hitat a'l de qelar.}</sh></li>
+    <li><ja>Oh No don't 恋</ja><sh>{avâ, ya e durîy.}</sh></li>
+    <li><ja>認めたくない my buddy</ja><sh>{rafat kosatat a'l e cal.}</sh></li>
+    <li><ja>いたずらな運命は</ja><sh>{cedeqes a dèx abelsetlof,}</sh></li>
+    <li><ja>神様とグルになって試しているのさ</ja><sh>{e kin, fe fevetac okôk a't e xèl, soletic a't ca tel.}</sh></li>
+    <li><ja>いつからだろう 知らぬ間に</ja><sh>{dufekolat a tel e talcat ekoz.}</sh></li>
+    <li><ja>君のことだけを 夢中になって追いかけているよ</ja><sh>{fa dufedekat a'l e cal, zizetac olov a vàtlic i'l e loc etut.}</sh></li>
+    <li><ja>春のざわめきに胸痛いよ</ja><sh>{rétikac ogicaz e tel a zâf ia molaf.}</sh></li>
+    <li><ja>神様 意地悪しないで</ja><sh>{yo xèl, ditat duziltisac a'c ca tel.}</sh></li>
+    <li><ja>Spring Screaming</ja><sh>{e zabag i molaf.}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『Spring Screaming』</ed></li>
+    <li><et>収録メディア</et><ed>アイドルマスターシンデレラガールズ関連 CD『MASTER SEASONS SPRING!』</ed></li>
+    <li><et>抜粋箇所</et><ed>ショートバージョン部分</ed></li>
+    <li><et>作詞者</et><ed>宮崎誠<small>様</small></ed></li>
+    <li><et>作曲者</et><ed>宮崎誠<small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>2343</h></ed></li>
+  </el>
+  <p>
+    この曲すごい好き。
+    メロディーに合わせて音節の数を合わせてあるので、実際に翻訳文を歌うこともできます。
+  </p>
+  <h1>考察点</h1>
+  <p>
+    1 フレーズ目から 3 フレーズ目までは叙述の現在時制。
+    回想だと解釈して過去時制でも良さそう。
+  </p>
+  <p>
+    3 フレーズ目はもとの歌詞で韻を踏んでいるので、翻訳でも //aɹ// で韻を踏んだ。
+  </p>
+  <p>
+    4 フレーズ目の「don't 恋」はダブルミーニングなのかな?
+    シャレイア語訳ではそれをうまく反映できず、文字通りの意味の方に近い訳とした。
+  </p>
+  <p>
+    7 フレーズ目の {okôk} は {fe} 節内の {fevetac} を修飾しているが、正直なところ前のフレーズの {cedeqat} を修飾させたかった。
+    しかし、音節数をうまく合わせられず、今の位置に置いてある。 
+  </p>
+  <p>
+    10 フレーズ目では、音節数などの関係で「ざわめき」のニュアンスが全く出せていないので、良い翻訳が思いついたらそれに差し替えたい。
+  </p>
+  <p>
+    12 フレーズ目の {zabag i molaf} の {i} は慣用句やフレーズを作るときの用法である。
+  </p>
+
+</page>

@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>デザインチェック</name>
+
+  <h1>第 1 見出し</h1>
+  <p>
+    第 1 見出しの直後に段落があるパターンです。
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+  <p>
+    引き続き段落があります。
+    <a>リンク</a>が文章中に<a>このように</a>挟まることがあります。
+    <a><h>1988</h></a> のように、上付き文字がリンク文字に入る可能性があります。
+  </p>
+  <p>
+    ハイリア数は、上付き文字を用いて <h>2203</h> のように表示するのが一般的です。
+    また、3<sup>15</sup> や A<sub>2</sub> などの上付き文字や下付き文字の表示も調整してください。
+  </p>
+  <p>
+    VSCode から編集してみる。
+  </p>
+  <h1>第 1 見出し</h1>
+  <h2 number="3">第 2 見出し</h2>
+  <p>
+    第 1 見出しの後に第 2 見出しが続き、その後に段落があるパターンです。
+  </p>
+  <p>
+    シャレイア語表記はエスケープできます。
+    例えば、括弧を 2 重にして [[no shaleian]] や {{no shaleian}} などとするとエスケープできます。
+    その他、HTML の実体参照を用いて &#x5B;escaped&#x5D; や &#x7B;escaped&#x7D; などともできますが、推奨されません。
+  </p>
+  <h2 number="5">第 2 見出し</h2>
+  <p>
+    第 2 見出しの連続です。
+  </p>
+  <h2 number="18">第 2 見出し</h2>
+  <p>
+    さらに第 2 見出しの連続です。
+  </p>
+  <h1>シャレイア語 {sâfat a loc}</h1>
+  <h2 number="22">{xalér}</h2>
+  <p>
+    見出しにはシャレイア語が入る場合があります。
+  </p> 
+  <h1>リスト</h1>
+  <h2 number="22">番号なしリスト</h2>
+  <p>
+    これは段落です。
+  </p>
+  <ul>
+    <li>番号なしリスト 1</li>
+    <li>番号なしリスト 2</li>
+    <li>sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</li>
+  </ul>
+  <p>
+    これは段落です。
+  </p>
+  <h2 number="24">番号ありリスト</h2>
+  <ol>
+    <li>番号なしリスト 1</li>
+    <li>番号なしリスト 2</li>
+    <li>sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</li>
+  </ol>
+  <p>
+    This is an awesome paragraph.
+  </p>
+  <h2 number="99">多段組</h2>
+  <p>
+    多段組も可能です。
+    2 段組と 3 段組に対応しています。
+    それ以上の段組みには対応してませんが、まあ使うことはあまりないと思うのでこれで良いでしょう。
+  </p>
+  <ol class="triple">
+    <li>番号なしリスト 1</li>
+    <li>番号なしリスト 2</li>
+    <li>番号なしリスト 3</li>
+    <li>番号なしリスト 4</li>
+    <li>番号なしリスト 5</li>
+    <li>番号なしリスト 6</li>
+    <li>番号なしリスト 7</li>
+    <li>番号なしリスト 8</li>
+    <li>番号なしリスト 9</li>
+    <li>番号なしリスト 10</li>
+  </ol>
+  <p>
+    This is a paragraph.
+  </p>
+  <ul class="triple">
+    <li>番号なしリスト 1</li>
+    <li>番号なしリスト 2</li>
+    <li>番号なしリスト 3 はときどきある非常に長い箇条書きの項目ですが良い感じに表示されると嬉しいです</li>
+    <li>番号なしリスト 4</li>
+    <li>番号なしリスト 5</li>
+    <li>番号なしリスト 6</li>
+    <li>番号なしリスト 7</li>
+    <li>番号なしリスト 8</li>
+    <li>番号なしリスト 9</li>
+    <li>番号なしリスト 10</li>
+  </ul>
+  <h2 number="1">羅列リスト</h2>
+  <p>
+    以下のような、項目名とその内容を羅列するタイプのリストもあります。
+    見た目はリストですが、HTML では <m>table</m> タグで実装しています。
+    ZpML での記述も <m>ul</m> タグなどとはちょっと違います。
+  </p>
+  <el>
+    <li><et>項目 1</et><ed>内容 1</ed></li>
+    <li><et>項目 2</et><ed>内容 1</ed></li>
+    <li><et>長い項目名</et><ed>やっほー</ed></li>
+  </el>
+  <h1>目次</h1>
+  <section-table/>
+  <h1>番号付き段落</h1>
+  <p par="1">
+    考察点などを記す際に、どこの文章のことを言っているか分かるように段落の番号を表示することがあります。
+    これは、複数の行にまたがるような長い段落の例です。
+    そう、これは長い段落の例です。
+  </p>
+  <p par="2">
+    考察点などを記す際に、どこの文章のことを言っているか分かるように段落の番号を表示することがあります。
+    これは、複数の行にまたがるような長い段落の例です。
+    そう、これは長い段落の例です。
+  </p>
+  <p par="3">
+    短い段落です。
+  </p>
+  <p par="10">
+    短い段落です。
+  </p>
+  <p par="45">
+    考察点などを記す際に、どこの文章のことを言っているか分かるように段落の番号を表示することがあります。
+    これは、複数の行にまたがるような長い段落の例です。
+    そう、これは長い段落の例です。
+  </p>
+  <h1>例文の箇条書き</h1>
+  <p>
+    言語サイトなので、文章の途中に例文が挟まるときがあります。
+  </p>
+  <xl>
+    <li><sh>{kiles a tel te tazik e kin ricamos a tel.}</sh><ja>私は昨日泳ぐことができるようになった。</ja></li>
+    <li><sh>{vade salot a qinat afik e asokes o axodol ebam, ditat yalfesis a loc e cit.}</sh><ja>この絵画はとても重要で高価なものなので、大切に扱いなさい。</ja></li>
+  </xl>
+  <p>
+    段落。
+  </p>
+  <h1>ソースコード</h1>
+  <p>
+    たまにソースコードを扱うので、等幅フォントで表示させます。
+    コード中に計算を表示して、出力結果などを書きたいときもあります。
+  </p>
+  <p>
+    コード中の変数 <m>variable</m> の定義を <c>1 + "sas"</c> のようにするとダメです。
+    以下がその例です。
+  </p>
+  <pre>
+    variable = 1 + "sas"
+    puts(variable)
+    def indent
+      indented_block.each do |i|
+        i += 1
+      end
+    end
+  </pre>
+  <samp>
+    ****.rb:11:in `+': String can't be coerced into Integer (TypeError)
+      from ****:11:in `&lt;main&gt;'
+  </samp>
+  <h1>会話文</h1>
+  <p>
+    会話形式の講座などで、会話文を表示することがあります。
+  </p>
+  <tablec><cz><p>
+    これは私の台詞です。
+  </p>
+  <xl>
+    <li><sh>{sîya.}</sh><ja>例文が挟まります。</ja></li>
+  </xl></cz>
+  <cf><p>
+    わーい!
+  </p></cf>
+  <cz><p>
+    Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait “Histoires Vécues”.
+    Ça représentait un serpent boa qui avalait un fauve.
+    Voilà la copie du dessin.
+  </p>
+  <p>
+    On disait dans le livre: “Les serpents boas avalent leur proie tout entière, sans la mâcher.
+    Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion.”
+  </p></cz></tablec>
+  <h1>対訳</h1>
+  <p>
+    歌詞の翻訳などでは、原文と訳文を並べて表示したくなります。
+  </p>
+  <trans>
+    <li><ja>歌詞 1</ja><sh>{salat a fit e lêdik il'atis,}</sh></li>
+    <li><ja>歌詞 2</ja><sh>{lo salat a fit e lêdik il'aqec.}</sh></li>
+    <li><ja>歌詞 3</ja><sh>{lo salat a fit e lêdik il'ayos.}</sh></li>
+  </trans>
+  <h1>フォーム</h1>
+  <p>
+    以下はテキストエリアです。
+  </p>
+  <form>
+    <textarea class="normal" name="content" cols="50" rows="6"></textarea><br/>
+    <input type="submit" name="mode" value="決定"></input>
+  </form>
+  <p>
+    以下は <m>input</m> タグを用いたフォームとしてのボタンと、<m>a</m> タグをそれっぽい見た目にしてボタンのように表示しているものです。
+    ほとんど同じ見た目になっていることを確認してください。
+  </p>
+  <form>
+    <input type="submit" name="mode" value="ボタン"></input> <a class="form">ボタン</a>
+  </form>
+  <p>
+    ここにあるフォームは実際には動きません。
+  </p>
+
+</page>

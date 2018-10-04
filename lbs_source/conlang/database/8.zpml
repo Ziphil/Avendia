@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>シャレイア語辞典 (PDF 版)</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>閲覧</h1>
+  <p>
+    PDF 版のシャレイア語辞典を閲覧できます。
+    更新は手動なので、常に最新のデータであるわけではありません。
+  </p>
+  <pdf src="../../file/dictionary/data/pdf/1.pdf"/>
+  <h1>PDF ダウンロード</h1>
+  <p>
+    ブラウザが PDF ファイルの表示に対応していない場合は、以下のリンクから PDF ファイルを直接ダウンロードしてください。
+  </p>
+  <form>
+    <a class="form" href="../../file/dictionary/data/pdf/1.pdf">ダウンロード</a>
+  </form>
+
+</page>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>シャレイア語の響き</name>
+  <ver>5 代 3 期</ver>
+
+  <h1>日記 (1504 年 5 月 18 日, <h>1245</h>)</h1>
+  <p>
+    シャレイア語には、名詞に付随する助詞と形容詞や副詞の活用接頭辞のおかげで、強弱のリズムが繰り返されるという独特の響きがあります。
+    これはリズムによって生じる特徴ですが、では音韻によって生じるシャレイア語の特徴というものがあるのかどうか気になったので、調べてみました。
+  </p>
+  <p>
+    シャレイア語の音節は、子音の連続が許されてないので V, VC, CV, CVC の 4 パターンのみとなります。
+    さらに、一部の助詞と固有名詞を除いて、母音で始まる音節も存在しないので、一般的には音節は CV か CVC のどちらかになり、必ず CV の組み合わせを含みます。
+    そこで、単語の中に出てくる CV の組み合わせを調べてみます。
+    もしこの組み合わせに何らかの偏りがあれば、シャレイア語らしい単語の響きというものが存在することになるわけです。
+  </p>
+  <p>
+    結果は以下のようになりました。
+    使用したデータは、今日の辞典で辞書に登録されていた 726 語です。
+    長母音は対応する短母音として、二重母音は 1 つ目の母音であるとして扱いました。
+  </p>
+  <table>
+    <tr><thl></thl><th>[a]</th><th>[e]</th><th>[i]</th><th>[o]</th><th>[u]</th></tr>
+    <tr><thl>[s]</thl><td>25</td><td>10</td><td>18</td><td>34</td><td>0</td></tr>
+    <tr><thl>[z]</thl><td>12</td><td>29</td><td>18</td><td>0</td><td>0</td></tr>
+    <tr><thl>[t]</thl><td>15</td><td>16</td><td>27</td><td>3</td><td>6</td></tr>
+    <tr><thl>[d]</thl><td>12</td><td>47</td><td>10</td><td>31</td><td>10</td></tr>
+    <tr><thl>[k]</thl><td>13</td><td>14</td><td>7</td><td>26</td><td>22</td></tr>
+    <tr><thl>[g]</thl><td>0</td><td>0</td><td>12</td><td>1</td><td>5</td></tr>
+    <tr><thl>[f]</thl><td>7</td><td>39</td><td>21</td><td>14</td><td>0</td></tr>
+    <tr><thl>[v]</thl><td>22</td><td>13</td><td>9</td><td>18</td><td>0</td></tr>
+    <tr><thl>[p]</thl><td>22</td><td>12</td><td>6</td><td>4</td><td>0</td></tr>
+    <tr><thl>[b]</thl><td>11</td><td>8</td><td>3</td><td>1</td><td>7</td></tr>
+    <tr><thl>[c]</thl><td>27</td><td>5</td><td>15</td><td>0</td><td>0</td></tr>
+    <tr><thl>[q]</thl><td>10</td><td>7</td><td>15</td><td>20</td><td>2</td></tr>
+    <tr><thl>[x]</thl><td>24</td><td>8</td><td>2</td><td>9</td><td>0</td></tr>
+    <tr><thl>[j]</thl><td>0</td><td>1</td><td>0</td><td>4</td><td>4</td></tr>
+    <tr><thl>[r]</thl><td>20</td><td>19</td><td>28</td><td>0</td><td>0</td></tr>
+    <tr><thl>[l]</thl><td>15</td><td>20</td><td>32</td><td>23</td><td>0</td></tr>
+    <tr><thl>[m]</thl><td>2</td><td>13</td><td>3</td><td>4</td><td>0</td></tr>
+    <tr><thl>[n]</thl><td>10</td><td>3</td><td>20</td><td>7</td><td>0</td></tr>
+    <tr><thl>[h]</thl><td>20</td><td>0</td><td>26</td><td>4</td><td>0</td></tr>
+    <tr><thl>[y]</thl><td>11</td><td>13</td><td>2</td><td>2</td><td>0</td></tr>
+  </table>
+  <p>
+    これを見ると、[d] は [de] や [do] として現れやすく [da] や [di] や [du] は少数だとか、[u] は [ku] や [du] として現れることがほとんどだとか、いろいろ分かりますね。
+    個人的に意外だったのが、[ga] や [ge] を含む音節が存在しないということです。
+  </p>
+  <p>
+    これからも単語は増えるでしょうし、シャレイア語には名詞化アプラウトというのがあるので、今の段階で見える音韻的な特徴は消えてしまうかもしれないのが残念です。
+  </p>
+
+</page>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>感情動詞</name>
+  <ver>5 代 4 期</ver>
+
+  <h1>感情動詞</h1>
+  <p>
+    対応する日本語が複数ある場合でも 1 つだけを示した。
+    語義は辞書に記載されているものを少し簡略化したものもある。
+  </p>
+  <table>
+    <tr><th>単語</th><th>意味</th><th>語義</th></tr>
+    <tr><td>{dod}</td><td>悲しい</td><td>*</td></tr>
+    <tr><td>{qôf}</td><td>寂しい</td><td>近くにいてほしい人が実際にはいなくて悲しい</td></tr>
+    <tr><td>{gudbiq}</td><td>*</td><td>大事な人に見捨てられたように感じられて寂しい</td></tr>
+    <tr><td>{hôr}</td><td>切ない</td><td>何かが周りに存在しないように感じられて悲しい</td></tr>
+    <tr><td>{turef}</td><td>孤独感</td><td>自分を理解してくれる仲間がいないと感じる</td></tr>
+    <tr><td>{fon}</td><td>落胆する</td><td>期待が叶えられず悲しい</td></tr>
+    <tr><td>{bazel}</td><td>悔しい</td><td>期待を叶えるのに十分なことができず腹立たしい</td></tr>
+    <tr><td>{debuz}</td><td>意気消沈する</td><td>何に対してもやる気が出ない</td></tr>
+    <tr><td>{gudeb}</td><td>絶望する</td><td>今後に希望が見いだせない</td></tr>
+    <tr><td>{gûbum}</td><td>打ちのめされる</td><td>*</td></tr>
+    <tr><td>{doj}</td><td>つらい</td><td>いたくない状態にある</td></tr>
+    <tr><td>{fitig}</td><td>*</td><td>いたくない状態にあって今にも耐えられなくなりそうである</td></tr>
+    <tr><td>{dêg}</td><td>憂鬱な</td><td>望まないことが将来起こるのでつらい</td></tr>
+    <tr><td>{tigum}</td><td>苦しい</td><td>望まないことをしなければならないのでつらい</td></tr>
+    <tr><td>{hodem}</td><td>虚無感</td><td>過去に価値のないことをしてしまいつらい</td></tr>
+    <tr><td>{bâg}</td><td>怒る</td><td>*</td></tr>
+    <tr><td>{dûbal}</td><td>激怒する</td><td>*</td></tr>
+    <tr><td>{golgut}</td><td>むかつく</td><td>怒らせた相手を傷つけてやりたいと思う</td></tr>
+    <tr><td>{sîr}</td><td>恥ずかしい</td><td>人前に出たくないと感じる</td></tr>
+    <tr><td>{dufit}</td><td>恥ずかしい</td><td>間違ったことをしてしまって人前に出たくないと感じる</td></tr>
+    <tr><td>{xâq}</td><td>照れる</td><td>*</td></tr>
+    <tr><td>{nisaq}</td><td>妬む</td><td>他人の性質や所有物が良いものだと思って自分にもほしいと思う</td></tr>
+    <tr><td>{bûdez}</td><td>嫉妬する</td><td>何としてでも妬みの対象を奪いたいと思う</td></tr>
+    <tr><td>{pan}</td><td>困惑する</td><td>何をすれば良いのか分からなくなる</td></tr>
+    <tr><td>{páz}</td><td>不安な</td><td>確実でない要素があり落ち着けない</td></tr>
+    <tr><td>{dopar}</td><td>緊張する</td><td>慣れないことをこれからしなければならず不安になる</td></tr>
+    <tr><td>{pît}</td><td>怖い</td><td>危害を加えられそうに感じて不安になる</td></tr>
+    <tr><td>{qopis}</td><td>怯える</td><td>怖いせいで行動を起こす気力がなくなる</td></tr>
+    <tr><td>{zaz}</td><td>驚く</td><td>*</td></tr>
+    <tr><td>{kizas}</td><td>仰天する</td><td>*</td></tr>
+    <tr><td>{balat}</td><td>不意を突かれる</td><td>*</td></tr>
+    <tr><td>{har}</td><td>気分が良い</td><td>少しのことでは起こったり悲しんだりしないような気分である</td></tr>
+    <tr><td>{hix}</td><td>満足する</td><td>行動がうまくいって気分が良い</td></tr>
+    <tr><td>{vâf}</td><td>達成感</td><td>難しいことを何とか成功させて気分が良い</td></tr>
+    <tr><td>{fopel}</td><td>開放感</td><td>嫌なことを成し遂げて気楽になり気分が良い</td></tr>
+    <tr><td>{rahas}</td><td>楽しむ</td><td>*</td></tr>
+    <tr><td>{kelit}</td><td>安心する</td><td>不安なことがない状態で落ち着く</td></tr>
+    <tr><td>{yâx}</td><td>幸せな</td><td>*</td></tr>
+    <tr><td>{xalér}</td><td>*</td><td>*</td></tr>
+    <tr><td>{ragres}</td><td>*</td><td>喜びと悲しみが混ざり合って泣きたい気持ちになる</td></tr>
+  </table>
+
+</page>

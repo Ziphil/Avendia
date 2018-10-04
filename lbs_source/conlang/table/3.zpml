@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>指示詞</name>
+  <ver>5 代 1 期</ver>
+
+  <h1>指示詞</h1>
+  <table>
+    <tr><thl></thl><th>近接</th><th>遠方</th><th>指示</th><th>疑問</th><th>不在</th><th>不定</th><th>特定</th><th>任意</th><th>同種</th><th>一般</th></tr>
+    <tr><thl>人</thl><td>{fas}</td><td>{qos}</td><td>{ces}</td><td>{pas}</td><td>{nus}</td><td>{zas}</td><td>{kes}</td><td>{ros}</td><td></td><td>{ves}</td></tr>
+    <tr><thl>物</thl><td>{fit}</td><td>{qat}</td><td>{cot}</td><td>{pit}</td><td>{nat}</td><td>{zit}</td><td>{kot}</td><td>{rat}</td><td>{met}</td><td></td></tr>
+    <tr><thl>事</thl><td>{fel}</td><td>{qil}</td><td>{cal}</td><td>{pel}</td><td>{nol}</td><td>{zel}</td><td>{kal}</td><td>{ril}</td><td></td><td></td></tr>
+    <tr><thl>場所</thl><td>{feed}</td><td>{qiid}</td><td>{caad}</td><td>{peed}</td><td>{nood}</td><td>{zeed}</td><td>{kaad}</td><td>{riid}</td><td></td><td></td></tr>
+    <tr><thl>修飾</thl><td>{fik}</td><td>{qak}</td><td>{cok}</td><td>{pik}</td><td>{nak}</td><td></td><td>{kok}</td><td>{rak}</td><td></td><td></td></tr>
+  </table>
+
+</page>

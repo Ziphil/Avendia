@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>不定詞の活用</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>スライド</h1>
+  <slide id="4eee7c7033b24cb0ab6ca7d35a1ca0a8"/>
+  <h1>新出単語</h1>
+  <p>
+    各単語をクリックすると、オンライン辞典のその単語の項目にジャンプします。
+  </p>
+  <ul class="triple">
+    <li>{xôy} ･･･ 片付ける</li>
+    <li>{sôd} ･･･ 食べる</li>
+    <li>{big} ･･･ 青い</li>
+    <li>{têl} ･･･ ときどき</li>
+    <li>{tîv} ･･･ 素早く</li>
+    <li>{sokul} ･･･ 部屋</li>
+  </ul>
+
+</page>

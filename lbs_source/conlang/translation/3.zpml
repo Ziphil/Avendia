@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『花は咲く』</name>
+  <ver>5 代 2 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>花は 花は 花は咲く</ja><sh>{a nayef, a nayef, kaakisal okoot,}</sh></li>
+    <li><ja>いつか生まれる君に</ja><sh>{voca los, xaifisal e te carip.}</sh></li>
+    <li><ja>花は 花は 花は咲く</ja><sh>{a nayef, a nayef, kaakisal okoot.}</sh></li>
+    <li><ja>私は何を残しただろう</ja><sh>{pa lesesal e pil a tel so rais ica los?}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>東日本大震災の支援ソング『花は咲く』</ed></li>
+    <li><et>抜粋箇所</et><ed>サビ</ed></li>
+    <li><et>翻訳日</et><ed><h>1065</h></ed></li>
+  </el>
+  <p>
+    リパライン語作者の FAFS さんがこの部分の人工言語訳を集めていたので、それに参加した。
+    集められた各人工言語の訳は、<a href="https://sites.google.com/site/riparaincangku/cang-ku3/huaha-xiaoku" target="_blank">ここ</a>に記載されている。
+    なお、音節数を揃えてあるので、実際にこのシャレイア語歌詞で歌っても違和感はないだろうと思う。
+  </p>
+
+</page>

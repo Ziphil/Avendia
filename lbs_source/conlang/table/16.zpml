@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>飾詞</name>
+  <ver>5 代 4 期</ver>
+
+  <h1>飾詞</h1>
+  <table>
+    <tr><th>飾詞</th><th>意味</th><th>由来</th></tr>
+    <tr><td>{la+}</td><td>～する人</td><td>?</td></tr>
+    <tr><td>{to+}</td><td>～する物</td><td>?</td></tr>
+    <tr><td>{ve+}</td><td>～する場所</td><td>?</td></tr>
+    <tr><td>{do+}</td><td>～ではない</td><td>&lt; {du} の母音変化</td></tr>
+    <tr><td>{de+}</td><td>～がない</td><td>?</td></tr>
+    <tr><td>{zi+}</td><td>～の逆操作</td><td>?</td></tr>
+    <tr><td>{+eq}</td><td>～するような</td><td>&lt; {deq}</td></tr>
+  </table>
+
+</page>

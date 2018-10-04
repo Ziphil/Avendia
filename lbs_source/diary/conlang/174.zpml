@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>記数法と命数法</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>日記 (<h>1982</h>)</h1>
+  <p>
+    整数の読み方は文法書に書いてあるようにすでに決めていたんですが、小数の読み方はまだ決めていなかったので、ちょっと考えたものをまとめておきます。
+  </p>
+  <p>
+    数は 10 進位取り記数法に従って記します。
+    小数点には [·] (U+00B7) を用い、デックやタデックは用いません。
+    整数部が 0 であるような小数を記す際は、整数部の 0 は普通省略し、[·142857] などと記します。
+    大きな数を記す際は、小数点に近い方から 4 桁ずつ区切って間にスペースを入れて記しても構いません。
+  </p>
+  <p>
+    各位の数を表す 1 桁分の数詞は以下の通りです。
+  </p>
+  <table>
+    <tr><th>数</th><th>単語</th></tr>
+    <tr><td>0</td><td>{nof}</td></tr>
+    <tr><td>1</td><td>{tis}</td></tr>
+    <tr><td>2</td><td>{qec}</td></tr>
+    <tr><td>3</td><td>{yos}</td></tr>
+    <tr><td>4</td><td>{piv}</td></tr>
+    <tr><td>5</td><td>{xal}</td></tr>
+    <tr><td>6</td><td>{ric}</td></tr>
+    <tr><td>7</td><td>{sez}</td></tr>
+    <tr><td>8</td><td>{kaq}</td></tr>
+    <tr><td>9</td><td>{von}</td></tr>
+  </table>
+  <p>
+    小数部については、上で示した整数部用の数詞とは別の数詞を用います。
+    上の整数部用の 10 個の数詞と下の小数部用の 10 個の数詞を合わせて「基本数詞」と呼びます。
+  </p>
+  <table>
+    <tr><th>数</th><th>単語</th></tr>
+    <tr><td>0.0</td><td>{mul}</td></tr>
+    <tr><td>0.1</td><td>{daf}</td></tr>
+    <tr><td>0.2</td><td>{cid}</td></tr>
+    <tr><td>0.3</td><td>{hut}</td></tr>
+    <tr><td>0.4</td><td>{bac}</td></tr>
+    <tr><td>0.5</td><td>{jes}</td></tr>
+    <tr><td>0.6</td><td>{lam}</td></tr>
+    <tr><td>0.7</td><td>{ziq}</td></tr>
+    <tr><td>0.8</td><td>{get}</td></tr>
+    <tr><td>0.9</td><td>{fus}</td></tr>
+  </table>
+  <p>
+    数を読むときは、まず整数部と小数部をそれぞれ小数点に近い方から 4 桁ずつ区切ります。
+    この区切られた 4 桁の各位に対し、その位の数の基本数詞に以下に示す位を表す接尾辞をつけ、それらを並べます。
+    このとき、位が 0 のものは基本的に省略します (位が飛んでいることを明示したい場合は省略しなくても良い)。
+  </p>
+  <table>
+    <tr><th>位</th><th>接辞</th></tr>
+    <tr><td>10<sup><k>±</k>0</sup></td><td>∅</td></tr>
+    <tr><td>10<sup><k>±</k>1</sup></td><td>[et]</td></tr>
+    <tr><td>10<sup><k>±</k>2</sup></td><td>[il]</td></tr>
+    <tr><td>10<sup><k>±</k>3</sup></td><td>[as]</td></tr>
+  </table>
+  <p>
+    例えば、[498] は 4<k>×</k>10<sup>2</sup> ＋ 9<k>×</k>10<sup>1</sup> ＋ 8<k>×</k>10<sup>0</sup> なので、[pivil] と [vonet] と [kaq] を繋げて {pivilvonetkaq} と読みます。
+    また、[·0201] は 0.0<k>×</k>10<sup>0</sup> ＋ 0.2<k>×</k>10<sup>－1</sup> ＋ 0.0<k>×</k>10<sup>－2</sup> ＋ 0.1<k>×</k>10<sup>－3</sup> なので、0 の位を除いた [cidet] と [dafas] を繋げて {cidetdafas} となります。
+  </p>
+  <p>
+    次に、区切られたそれぞれの 4 桁に対し、さらに以下の位取りの接尾辞をつけ、それらを並べます。
+    数の読みを綴るときは、読みやすさのためにこの 4 桁ごとにフェークを入れます。
+    このフェークの使い方は例外的な気がしますが、まあ仕方ないでしょう。
+  </p>
+  <table>
+    <tr><th>位</th><th>接辞</th></tr>
+    <tr><td>10<sup><k>±</k>0</sup></td><td>∅</td></tr>
+    <tr><td>10<sup><k>±</k>4</sup></td><td>[otik]</td></tr>
+    <tr><td>10<sup><k>±</k>8</sup></td><td>[oqek]</td></tr>
+    <tr><td>10<sup><k>±</k>12</sup></td><td>[oyok]</td></tr>
+    <tr><td>10<sup><k>±</k>16</sup></td><td>[opik]</td></tr>
+    <tr><td>10<sup><k>±</k>20</sup></td><td>[oxak]</td></tr>
+  </table>
+  <p>
+    例えば、[4985710] は 498<k>×</k>10<sup>4</sup> ＋ 5710<k>×</k>10<sup>0</sup> であり、[498] は {pivilvonetkaq} と読み [5710] は {xalasseziltiset} と読むので、[498] の方に接尾 [otik] をつけて繋げて {pivilvonetkaqotik-xalasseziltiset} と読みます。
+    [3·1415926] は 3<k>×</k>10<sup>0</sup> ＋ 0.1415<k>×</k>10<sup>－0</sup> ＋ 0.926<k>×</k>10<sup>－4</sup> なので、{yos-dafbacetdafiljesas-fuscidetlamilotik} となります。
+  </p>
+  <p>
+    大きい数や小さい数を記述する場合は、4 桁ずつ区切った後に位取りの接尾辞をそのまま書くこともできます。
+    例えば、[500000] の代わりに [50otik] と書け、[·00000000005] の代わりに [·005oqek] と書けます。
+  </p>
+
+</page>

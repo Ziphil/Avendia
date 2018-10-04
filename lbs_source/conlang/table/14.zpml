@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>その他</name>
+  <ver>5 代 4 期</ver>
+
+  <h1>相動詞</h1>
+  <p>
+    相を表す動詞である。
+    将前相以外の動詞は、普通に相の活用接頭辞を用いたときよりその相の意味を強調できる。
+    なお、相動詞自身の相は、それが表す相が瞬間相なら完了相にし、表す相が期間相なら継続相にする。
+  </p>
+  <table>
+    <tr><th>単語</th><th>相</th></tr>
+    <tr><td>{fét}</td><td>将前相</td></tr>
+    <tr><td>{fôc}</td><td>開始相</td></tr>
+    <tr><td>{setac}</td><td>経過相</td></tr>
+    <tr><td>{dokol}</td><td>完了相</td></tr>
+    <tr><td>{tál}</td><td>継続相</td></tr>
+    <tr><td>*</td><td>終了相</td></tr>
+  </table>
+
+</page>

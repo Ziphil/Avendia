@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>半透明の描画</name>
+
+  <h1>日記 (2014 年 9 月 18 日)</h1>
+  <p>
+    人工言語の方が一段落ついた (気がする) ので、ゲーム制作の方を再開しようと思います。
+  </p>
+  <p>
+    さて、Java の Swing で画像を半透明にして描画する方法を探していたのですが、<m>AlphaComposite</m> クラスを使うようです。
+    こんな感じですね。
+    コードは JRuby です。
+  </p>
+  <pre>
+    graphics.composite = AlphaComposite.get_instance(AlphaComposite::SRC_OVER, alpha)
+  </pre>
+  <p>
+    まわりくどい!
+    ･･･そんなわけで、<m>Graphics2D</m> クラスを拡張しておきましょう。
+  </p>
+  <pre>
+    class Graphics2D
+      def alpha
+        return self.composite.alpha
+      end
+      def alpha=(alpha)
+        self.composite = AlphaComposite.get_instance(AlphaComposite::SRC_OVER, alpha)
+      end
+    end
+  </pre>
+  <p>
+    これですっきりコードが書けますね。
+  </p>
+  <p>
+    さて、便利な半透明描画ですが、どうやら少し重いようです。
+    JRuby だからでしょうか。
+    気楽にコードが書けるので JRuby は好きなんですが、Java とか Scala とかに比べると速度があまり出ませんね。
+    Scala に移った方が良いんでしょうか･･･。
+  </p>
+
+</page>

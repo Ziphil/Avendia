@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>類義語</name>
+  <ver>5 代 2 期</ver>
+
+  <h1>上下構造の類義語</h1>
+  <table>
+    <tr><th>系列</th><th>単語</th><th>語義</th></tr>
+    <tr><td rowspan="4">作る</td><td>{qik}</td><td></td></tr>
+    <tr><td>{voqil}</td><td>複数の部品を組み合わせて 1 つの全体物を作る</td></tr>
+    <tr><td>{xakoc}</td><td>何もないところから新しいものを生み出す</td></tr>
+    <tr><td>{zeehis}</td><td>多大な努力や苦労の結果からようやく完成させる</td></tr>
+    <tr><td rowspan="2">所有する</td><td>{kuut}</td><td></td></tr>
+    <tr><td>{delgut}</td><td>自分の思うがままにできるようにする</td></tr>
+    <tr><td rowspan="3">与える</td><td>{niq}</td><td></td></tr>
+    <tr><td>{seiq}</td><td>好意で与える</td></tr>
+    <tr><td>{beqzel}</td><td>あげたいわけではないが仕方なく与える (粗雑な言い方)</td></tr>
+    <tr><td rowspan="6">見る</td><td>{lic}</td><td></td></tr>
+    <tr><td>{likom}</td><td>細部まで分かるようにじっくりと見る</td></tr>
+    <tr><td>{kaiz}</td><td>1 ヶ所に視線を固定する</td></tr>
+    <tr><td>{zesqik}</td><td>見にくいものをわざわざ無理して見る</td></tr>
+    <tr><td>{poqos}</td><td>意識的ではなくぼーっと見る</td></tr>
+    <tr><td>{viit}</td><td>チラッと 1 回だけ短い時間見る</td></tr>
+    <tr><td rowspan="2">会話する</td><td>{lak}</td><td></td></tr>
+    <tr><td>{rafles}</td><td>とりとめもないことを気楽に話す</td></tr>
+    <tr><td rowspan="3">投げる</td><td>{foles}</td><td></td></tr>
+    <tr><td>{hanot}</td><td>軽く放り投げる</td></tr>
+    <tr><td>{zedlig}</td><td>力任せに思い切り投げつける (怒りによる八つ当たりのイメージ)</td></tr>
+    <tr><td rowspan="2">消える</td><td>{pariq}</td><td></td></tr>
+    <tr><td>{honpas}</td><td>気づかないうちに消えている</td></tr>
+  </table>
+
+</page>

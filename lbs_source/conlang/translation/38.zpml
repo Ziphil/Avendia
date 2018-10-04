@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『約束』</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>ねえ 目を閉じれば見える</ja><sh>{sê, qetot vo qofos izi katlis,}</sh></li>
+    <li><ja>君の笑顔</ja><sh>{a socavhâr i loc.}</sh></li>
+    <li><ja>Love for me そっと私を</ja><sh>{likxeloq ofimer kadi xahal,}</sh></li>
+    <li><ja>照らす光</ja><sh>{li tel a xer i loc.}</sh></li>
+    <li><ja>聴こえてるよ 君のその声が</ja><sh>{qifat qeritac a'l e qelar i loc, kécac a.}</sh></li>
+    <li><ja>笑顔見せて輝いていてと</ja><sh>{[ditat licac a'c li tel e socavhâr axalhas.]}</sh></li>
+    <li><ja>痛みをいつか勇気へと</ja><sh>{kodletat a'l e'n niseliq okôk a tel,}</sh></li>
+    <li><ja>想い出を愛に変えて</ja><sh>{li duj ca zécek, o liq li pelsof ca xer.}</sh></li>
+    <li><ja>歩こう 戻れぬ道</ja><sh>{canisaf a'l. dulicis a'l e zic.}</sh></li>
+    <li><ja>歌おう 仲間と今</ja><sh>{yepelaf a'l. kavat a'l e fesot.}</sh></li>
+    <li><ja>祈りを響かすように</ja><sh>{zêfav a tel li solxis ca zîd arak.}</sh></li>
+    <li><ja>約束するよ 夢を叶える</ja><sh>{zedat kozesaf a tel e'n kodis a'l e zeref.}</sh></li>
+    <li><ja>Thank you for love</ja><sh>{hafe, e xar.}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『約束』</ed></li>
+    <li><et>収録メディア</et><ed>アニメ『アイドルマスター』</ed></li>
+    <li><et>抜粋箇所</et><ed>ショートバージョン部分</ed></li>
+    <li><et>作詞者</et><ed>森由里子<small>様</small></ed></li>
+    <li><et>作曲者</et><ed>中川浩二<small>様</small>, 小林啓樹<small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>1495</h></ed></li>
+  </el>
+  <p>
+    千早の誕生日記念翻訳です。
+    メロディーに合わせて音節の数を合わせてあるので、実際に翻訳文を歌うこともできます。
+  </p>
+  <h1>考察点</h1>
+  <p>
+    4 フレーズ目の「光」は {xahal} にした。
+    これは音節数の都合もあるが、そのまま {xál} にしてしまうと動詞の {likxel} とイメージが被ってしまうという理由もある。
+  </p>
+
+</page>

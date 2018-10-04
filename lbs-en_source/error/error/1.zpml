@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>Error</name>
+  <base href="/error/"/>
+
+  <error>
+    <code>404</code>
+    <message>The page you requested does not exist.</message>
+  </error>
+
+</page>

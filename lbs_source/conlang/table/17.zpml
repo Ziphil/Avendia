@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>準飾詞</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>準飾詞</h1>
+  <p>
+    5 代 4 期までの飾詞のように、よく既存の単語と合成されて新しい単語が作られるものを一覧する。
+  </p>
+  <table>
+    <tr><th>単語</th><th>意味</th><th>語源</th></tr>
+    <tr><td>{zis+}</td><td>～する人</td><td>&lt; {zis}</td></tr>
+    <tr><td>{zat+}</td><td>～する物</td><td>&lt; {zat}</td></tr>
+    <tr><td>{zîd+}</td><td>～する場所</td><td>&lt; {zîd}</td></tr>
+    <tr><td>{doq+}</td><td>～ではない</td><td>&lt; {doq}</td></tr>
+    <tr><td>{tud+}</td><td>～がない</td><td>&lt; {tud}</td></tr>
+    <tr><td>{zif+}</td><td>～を戻す, ～の逆操作を行う</td><td>&lt; {zifcit}</td></tr>
+    <tr><td>{nis+}</td><td>～するような, ～を誘う</td><td>&lt; {nis}</td></tr>
+    <tr><td>{qil+}</td><td>～の言語</td><td>&lt; {qilox}</td></tr>
+    <tr><td>{kos+}</td><td>～するための施設, ～の施設</td><td>&lt; {kosoc}</td></tr>
+    <tr><td>{qik+}</td><td>～するための機械, ～する機械</td><td>&lt; {qikal}</td></tr>
+    <tr><td>{fet+}</td><td>～のようなもの, ～に似たもの</td><td>&lt; {fetus}</td></tr>
+  </table>
+
+</page>

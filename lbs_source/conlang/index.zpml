@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+
+  <pb>
+    <ab href="grammer/">文法書</ab>
+    <ab href="course/">入門書</ab>
+    <ab href="database/">データベース</ab>
+    <ab href="culture/">文化</ab>
+    <ab href="translation/">翻訳</ab>
+    <ab href="theory/">シャレイア語論</ab>
+    <ab href="document/">資料</ab>
+    <ab href="table/">一覧表</ab>
+  </pb>
+
+</page>

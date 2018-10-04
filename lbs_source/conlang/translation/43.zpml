@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『ジェミー』</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>コドモ扱いしないで</ja><sh>{niselat ovip a tel e dutific.}</sh></li>
+    <li><ja>すぐ上から目線!</ja><sh>{déqitos ofev a loc e tel.}</sh></li>
+    <li><ja>ちゃんと話を聞いてよっ</ja><sh>{di'qeritos a'c e zel kécac e a'l.}</sh></li>
+    <li><ja>マジメなんだぞ!</ja><sh>{los ovák a'l ocazec.}</sh></li>
+    <li><ja>オトナっぽく おとなしく</ja><sh>{zemlotac a'l e'n lasofac a'l,}</sh></li>
+    <li><ja>努力してるけどね</ja><sh>{osiref ovel ifeli kez.}</sh></li>
+    <li><ja>甲斐ないよ 意味ないよ</ja><sh>{e adusokos, e aducasat,}</sh></li>
+    <li><ja>気がついてくれなくちゃね!</ja><sh>{deri sokac a loc e vicek i tel.}</sh></li>
+    <li><ja>ステキな人ってどんな人なんだろ</ja><sh>{pa savat lesis e pil a'l so nisis a'l ca zis ayefex?}</sh></li>
+    <li><ja>やっぱりオシャレにキメちゃう事かな</ja><sh>{salot a cal, opadit e'n lasofos oxalket a tel.}</sh></li>
+    <li><ja>早速チャレンジ! 私にもできるかしら?</ja><sh>{zedat hizakaf ofev a'l! pa kilat lesis e cal a tel evoc?}</sh></li>
+    <li><ja>可能性は未知数</ja><sh>{salot a takpadit e vodên.}</sh></li>
+    <li><ja>えと･･･ドレス着てみたんだけどさ･･･</ja><sh>{tê, di'licis a'c e tel, kômat a e solxodlas….}</sh></li>
+    <li><ja>「どーかな?」</ja><sh>{pa e apéf?}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『ジェミー』</ed></li>
+    <li><et>収録メディア</et><ed>アイドルマスター関連 CD『MASTER ARTIST 2 —FIRST SEASON— 08』</ed></li>
+    <li><et>抜粋箇所</et><ed>1 番</ed></li>
+    <li><et>作詞者</et><ed>mft <small>様</small></ed></li>
+    <li><et>作曲者</et><ed>田村信二<small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>1723</h></ed></li>
+  </el>
+  <p>
+    真美の誕生日記念翻訳のはずでした。
+    メロディーに合わせて音節の数を合わせてあるので、実際に翻訳文を歌うこともできます。
+  </p>
+  <h1>考察点</h1>
+  <p>
+    1 フレーズ目は「子供として扱わないで」と直訳しようとするとどうしても複文になり音節数が足りないので、「私は子供じゃない」のようにした。
+  </p>
+  <p>
+    14 フレーズ目は {pa salat a tel e apéf} の省略形。
+  </p>
+
+</page>

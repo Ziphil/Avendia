@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『ONLY MY NOTE』</name>
+  <ver>5 代 4 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>新しい世界へ信じて飛び出そう</ja><sh>{yafekat a'l e xod acâl, o hizakis a'l e rel.}</sh></li>
+    <li><ja>ひとりじゃできないコトも</ja><sh>{e zel du kilat lesos e a'l etut,}</sh></li>
+    <li><ja>I believe your love</ja><sh>{fi yas i loc.}</sh></li>
+    <li><ja>ずっと夢見てた道も</ja><sh>{te catic a'l cali ref axalhas,}</sh></li>
+    <li><ja>迷ったりヘコんだりあるよね</ja><sh>{debuzis e'l é fonis e'l é pázis e'l.}</sh></li>
+    <li><ja>きっと見つけられるはずさ</ja><sh>{kotikis okôt a'l e zat asokes,}</sh></li>
+    <li><ja>見えない大事なナニかを</ja><sh>{bava du kilit licos a'l e't opadit.}</sh></li>
+    <li><ja>君と繋ぐハーモニー</ja><sh>{pa zêfis ca cêd aqon epác,}</sh></li>
+    <li><ja>どこまで届くかな</ja><sh>{a felxerat qikac e a'l fe'c?}</sh></li>
+    <li><ja>溢れた涙も音符に変わっていく</ja><sh>{dotrises a'l la tal avôl, à nisac a dir ca lekxerat.}</sh></li>
+    <li><ja>どんなピンチでも越えていける 君と</ja><sh>{lifoqis a'l e sôv adodeq arak adif, fe loc.}</sh></li>
+    <li><ja>新しい世界へ信じて飛び出そう</ja><sh>{yafekat a'l e xod acâl, o hizakis a'l e rel,}</sh></li>
+    <li><ja>これからどんな明日待ってるだろう</ja><sh>{cife soxac a'l e'n salis a tacar e taq apek.}</sh></li>
+    <li><ja>同じものなんてない</ja><sh>{vévat ca met aqôc adak,}</sh></li>
+    <li><ja>たったひとつの “MY NOTE”</ja><sh>{a xerat i tel “etut”.}</sh></li>
+    <li><ja>ひとりじゃできないコトも</ja><sh>{e zel du kilat lesos e a'l etut,}</sh></li>
+    <li><ja>I believe your love</ja><sh>{fi yas i loc.}</sh></li>
+    <li><ja>輝く未来を描いて進もう</ja><sh>{pafisac a'l e xod afec, o peciqis a'l e rel,}</sh></li>
+    <li><ja>これからどんな明日待っていても</ja><sh>{bari sokat a'l e'n salis a tacar e taq arak.}</sh></li>
+    <li><ja>可能性はいつも</ja><sh>{xakosac a'l e risxerat,}</sh></li>
+    <li><ja>ここにあるんだ “MY NOTE”</ja><sh>{qi xerat i loc “etut”.}</sh></li>
+    <li><ja>誰にもできないコトを</ja><sh>{e zel du kilat lesos e a ris,}</sh></li>
+    <li><ja>I believe your love</ja><sh>{fi yas i loc.}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『ONLY MY NOTE』</ed></li>
+    <li><et>収録メディア</et><ed>ゲーム『アイドルマスター ワンフォーオール』</ed></li>
+    <li><et>抜粋箇所</et><ed>ショートバージョン部分</ed></li>
+    <li><et>作詞者</et><ed>marhy <small>様</small></ed></li>
+    <li><et>作曲者</et><ed>内田哲也<small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>1287</h> (初版 <h>1216</h>)</ed></li>
+  </el>
+  <p>
+    メロディーに合わせて音節の数を合わせてあるので、実際に翻訳文を歌うこともできます。
+  </p>
+  <h1>考察点</h1>
+  <p>
+    4 フレーズ目は、本来「ずっと」の 2 拍で切れるはずだが、シャレイア語訳は {te catac} のように 2 拍目で綺麗に区切られず、少し気持ち悪い。
+    同様の問題が 6 フレーズ目や 7 フレーズ目にもある。
+  </p>
+  <p>
+    5 フレーズ目は、シャレイア語の「迷う」と「へこむ」の語法が微妙に違う ({tel} がとる格が異なる) ため、統一感を出そうと「迷う」を完全に無視して {debuz} を用いた。
+    また、最後の 4 拍分の訳し方があまりにも思いつかなかったので、もう 1 つ感情動詞を付け加えることでごまかしているが、これもあまり良くない。
+  </p>
+  <p>
+    9 フレーズ目の {fe'c} は縮約せず {fe loc} としたかったが、音節数の関係で断念した。
+  </p>
+  <p>
+    15 フレーズ目の「MY NOTE」の note は「音符」であって sound の「音」ではないが、訳には {xerat} を当てた。
+    個人的に「MY」および「たったひとつ」はシャレイア語訳にも残したかったので、「音符」に相当する 3 音節と長い {lekxerat} は使いづらかった。
+    その上、{lekxerat} はすでに前の部分 (10 フレーズ目) に出てきているのもあり、使うのをやめた。
+  </p>
+  <p>
+    20 フレーズ目は、次の「MY NOTE」を生かしたかったので、原文を完全に無視した翻訳にしてしまった。
+    そのまま訳しても良かったが、「MY NOTE」との繋がりがうまくいかず、かといって「MY NOTE」を削除してしまうとタイトルが浮いてしまうので、この選択をした。
+    といっても、8 フレーズ目とかぶってしまった感が否めないので、やめておくべきだったか。
+  </p>
+  <p>
+    22 フレーズ目の {ris} が 2 拍分になってしまい、少し気に入らない。
+  </p>
+  <p>
+    1 フレーズ目 (12 フレーズ目) 「新しい世界へ～」と 18 フレーズ目「輝く未来を～」の対比、13 フレーズ目「～どんな明日待ってるだろう」と 19 フレーズ目「～どんな明日待っていても」の対比、2 フレーズ目 (16 フレーズ目)「ひとりじゃ～」と 22 フレーズ目「誰にも～」の対比は、シャレイア語訳でも意味と構文において対比となるように気を遣った。
+    一方、15 フレーズ目「たったひとつの～」と 21 フレーズ目「ここにあるんだ～」については、もともとの歌詞もそれほど対にはなっていないものの、対となるよう訳した。
+  </p>
+  <p>
+    全体を通して主語を {tel} に統一した。
+    聞き手に語りかけていると考えて、主語を {loc} にしても良かったかもしれない。
+    むしろ原曲はこちらに近い気がする。
+  </p>
+
+</page>

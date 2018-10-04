@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『99 Nights』</name>
+  <ver>5 代 3 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>99 ナイツ ハロー&amp;グッバイ 繰り返してた</ja><sh>{kute jodom il'avonetvon, vomec sitayos a tel.}</sh></li>
+    <li><ja>曖昧な足りない言葉 やりとりしては</ja><sh>{felqotes a'l e kox ine sokos, du rafat ozev e a'l.}</sh></li>
+    <li><ja>泣いたり笑ったりすれ違ったり</ja><sh>{rédes a tel é hâres a tel é firnifes a riv i'l.}</sh></li>
+    <li><ja>近づく朝見ないふりして</ja><sh>{panozec a'l e kin hîfis odûg a xahal.}</sh></li>
+    <li><ja>今夜ならばきっと言える</ja><sh>{kilis cazos osol a'l te jodom i saq,}</sh></li>
+    <li><ja>流れ星を見たから</ja><sh>{vade vîtices a'l e xiflohis.}</sh></li>
+    <li><ja>100 番目の朝が君を</ja><sh>{buqotat a tel e'n liqonis obâl e'c,}</sh></li>
+    <li><ja>どこか遠くへさらう前に</ja><sh>{a pôd ic'atisil ca zîd aqon ivêk.}</sh></li>
+    <li><ja>99 ナイツ 話したいな 幸せだったかな</ja><sh>{kute jodom il'avonetvon, rafet raflesis a tel ca loc.}</sh></li>
+    <li><ja>会いたいなんて 一度だって言えなかった</ja><sh>{du qifet e'n cazos a'l e ref i'l, la tal atis adif.}</sh></li>
+    <li><ja>なんてスターライト 浮かぶハイライト</ja><sh>{pafisaq li'l a xif e pelsof.}</sh></li>
+    <li><ja>静かな夜が来た</ja><sh>{cákak a jodom atut te sot,}</sh></li>
+    <li><ja>君はまだ来ないね</ja><sh>{bava du cákak omez a loc.}</sh></li>
+    <li><ja>99 ナイツ 泣いてないわ もうタイムアップ 朝だから</ja><sh>{teca jodom il'avonetvon, nîpac a jodom acâl avoc.}</sh></li>
+    <li><ja>ねえ聞いて あのねあのね 君が好きよ</ja><sh>{qeritic a'c, telê telê, rêyat a tel e loc.}</sh></li>
+    <li><ja>伝えたいな 来ないでサンライズ</ja><sh>{refat cazis a'l ca'c e rîy i'l.}</sh></li>
+    <li><ja>今はもう君がいない</ja><sh>{nîpak fe jodom a loc te sot,}</sh></li>
+    <li><ja>夢の中会いたい</ja><sh>{ziqo pa qetit vo pér a loc?}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『99 Nights』</ed></li>
+    <li><et>収録メディア</et><ed>ゲーム『アイドルマスター ワンフォーオール』</ed></li>
+    <li><et>抜粋箇所</et><ed>ショートバージョン部分</ed></li>
+    <li><et>作詞者</et><ed>MC TC <small>様</small></ed></li>
+    <li><et>作曲者</et><ed>Taku Inoue <small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>1216</h></ed></li>
+  </el>
+  <p>
+    亜美真美の誕生日記念翻訳です。
+    メロディーに合わせて音節の数を合わせてあるので、実際に翻訳文を歌うこともできます。
+  </p>
+  <h1>考察点</h1>
+  <p>
+    元歌詞では「99 ナイツ」の部分は //naɪ// できれいに韻を踏んでいる。
+    一方、シャレイア語では「夜」は {lon} もしくは {jodom} で「99」は {vonetvon} であり、{lon il'avonetvon} とすれば //on// で一応韻を踏めるものの、それほど美しくない上に音節数が合わず断念した。
+  </p>
+  <p>
+    4 フレーズ目のこの歌詞の部分に {g} の音を入れたくない。
+    しかし、{odûg} を否定副詞に置き換えると音節数が合わない。
+  </p>
+  <p>
+    8 フレーズ目の「朝」は {xalnif} の方が話の流れからして適切かもしれないが、音節数の関係で {pôd} にせざるを得なかった。
+    ただ、この歌の後半のダンスで時計の 9 時を模している (と言われている) 部分があるので、それを考えると {pôd} の方が良いかもしれない。
+  </p>
+  <p>
+    10 フレーズ目の {tal atis} において、リズム的に {atis} が 2 つに分断されてしまっているので、少し気持ち悪い。
+    15 フレーズ目の {rêyat a tel} も同様。
+  </p>
+
+</page>

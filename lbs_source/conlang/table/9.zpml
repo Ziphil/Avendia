@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>助接詞, 連結詞</name>
+  <ver>5 代 2 期</ver>
+
+  <h1>助接詞</h1>
+  <table>
+    <tr><th>詞</th><th>意味</th><th></th></tr>
+    <tr><td>{a}</td><td>～は, ～が</td><td>主語</td></tr>
+    <tr><td>{e}</td><td>～を</td><td>目的語</td></tr>
+    <tr><td>{li}</td><td>～に</td><td>対象</td></tr>
+    <tr><td>{zi}</td><td>～から</td><td>出発点, 起点</td></tr>
+    <tr><td>{ca}</td><td>～に, ～へ</td><td>相手, 到達点, 目的地</td></tr>
+    <tr><td>{i}</td><td>～の</td><td>連体修飾</td></tr>
+    <tr><td>{iku}</td><td>～の</td><td>所有</td></tr>
+    <tr><td>{ide}</td><td>～という</td><td>内容</td></tr>
+    <tr><td>{te}</td><td>～に</td><td>時刻</td></tr>
+    <tr><td>{tezi}</td><td>～の前に</td><td>*</td></tr>
+    <tr><td>{teca}</td><td>～の後に</td><td>*</td></tr>
+    <tr><td>*</td><td>～の間に</td><td>*</td></tr>
+    <tr><td>{zite}</td><td>～から, ～以来</td><td>期間開始点</td></tr>
+    <tr><td>{cate}</td><td>～まで</td><td>期間終了点</td></tr>
+    <tr><td>{kute}</td><td>～の間</td><td>期間</td></tr>
+    <tr><td>*</td><td>～までに</td><td>期限</td></tr>
+    <tr><td>{vo}</td><td>～で</td><td>場所</td></tr>
+    <tr><td>{cali}</td><td>～に向かって</td><td>方向</td></tr>
+    <tr><td>{qi}</td><td>～で</td><td>道具</td></tr>
+    <tr><td>{fe}</td><td>～と</td><td>仲間</td></tr>
+    <tr><td>{la}</td><td>～で</td><td>個数, 量</td></tr>
+    <tr><td>{do}</td><td>～とともに</td><td>同伴物</td></tr>
+    <tr><td>{ne}</td><td>～なしで</td><td>*</td></tr>
+    <tr><td>{vade}</td><td>～なので, ～だから</td><td>理由</td></tr>
+    <tr><td>*</td><td>～なのに</td><td>逆説理由</td></tr>
+    <tr><td>{ziqo}</td><td>～というのも, ～なのは</td><td>結果</td></tr>
+    <tr><td>*</td><td>～なのに</td><td>逆説結果</td></tr>
+    <tr><td>{ri}</td><td>もし～</td><td>仮定</td></tr>
+    <tr><td>{bari}</td><td>たとえ～</td><td>逆接仮定</td></tr>
+    <tr><td>{so}</td><td>～のために</td><td>目的</td></tr>
+    <tr><td>{sora}</td><td>～のために</td><td>目的対象</td></tr>
+    <tr><td>{feli}</td><td>～のように</td><td>比況</td></tr>
+    <tr><td>{ce}</td><td>そして～</td><td>後続</td></tr>
+    <tr><td>{cife}</td><td>～しながら</td><td>同時, 並列</td></tr>
+    <tr><td>{tazi}</td><td>～にとって</td><td>判断基準</td></tr>
+    <tr><td>{loke}</td><td>～について</td><td>話題</td></tr>
+    <tr><td>{ni}</td><td>～より, ～と比べて</td><td>比較対象</td></tr>
+    <tr><td>{kude}</td><td>～の中で</td><td>比較範囲</td></tr>
+  </table>
+  <h1>連結詞</h1>
+  <table>
+    <tr><th>詞</th><th>意味</th><th></th></tr>
+    <tr><td>{o}</td><td>と</td><td>連言並列</td></tr>
+    <tr><td>{fa}</td><td>または</td><td>選言並列</td></tr>
+    <tr><td>{pe}</td><td>か</td><td>選択</td></tr>
+    <tr><td>{bi}</td><td>しかし</td><td>逆接</td></tr>
+  </table>
+
+</page>

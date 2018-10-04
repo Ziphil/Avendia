@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>音象徴</name>
+  <ver>5 代 2 期～ 5 代 5 期</ver>
+
+  <h1>音象徴</h1>
+  <table>
+    <tr><th>音</th><th>象徴</th></tr>
+    <tr><td>[s]</td><td>良い ([a]), 細い ([i]), 主要 ([o])</td></tr>
+    <tr><td>[z]</td><td>熱い ([a]), 強い ([e]), 後ろ ([i])</td></tr>
+    <tr><td>[t]</td><td>部分 ([a]), 短い ([e]), 小さい ([i]), 少ない ([u])</td></tr>
+    <tr><td>[d]</td><td>太い ([a]), 低い ([e]), 重い ([o]), 否定 ([u])</td></tr>
+    <tr><td>[k]</td><td>固い ([a]), 安定 ([e]), 確実 ([o]), 内側 ([u])</td></tr>
+    <tr><td>[g]</td><td>鋭い ([i]), 苦しい ([u])</td></tr>
+    <tr><td>[f]</td><td>女 ([a]), 近い ([e]), 弱い ([i]), 外側 ([o])</td></tr>
+    <tr><td>[v]</td><td>大きい ([a]), 全体 ([e]), 速い ([i]), 多い ([o])</td></tr>
+    <tr><td>[p]</td><td>不明 ([a]), 気楽 ([e]), 不安 ([i])</td></tr>
+    <tr><td>[b]</td><td>鈍い ([e]), 冷たい ([i]), 厚い ([o]), 悪い ([u])</td></tr>
+    <tr><td>[c]</td><td>前 ([a]), 副次的 ([i])</td></tr>
+    <tr><td>[q]</td><td>男 ([a]), 人工 ([i]), 遠い ([o])</td></tr>
+    <tr><td>[x]</td><td>明るい ([a]), 格式 ([o])</td></tr>
+    <tr><td>[j]</td><td>暗い ([o]), 汚い ([u])</td></tr>
+    <tr><td>[r]</td><td>楽しい ([a]), 感情 ([e]), 流れ ([i])</td></tr>
+    <tr><td>[l]</td><td>人間 ([a]), まっすぐ ([i]), 長い ([o])</td></tr>
+    <tr><td>[m]</td><td>遅い ([e]), 薄い ([i]), 柔らかい ([o])</td></tr>
+    <tr><td>[n]</td><td>自然 ([a]), 変化 ([i]), 曲がる ([o])</td></tr>
+    <tr><td>[h]</td><td>軽い ([a]), 高い ([i])</td></tr>
+    <tr><td>[y]</td><td>肯定 ([a]), 綺麗 ([e])</td></tr>
+  </table>
+
+</page>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>数詞</name>
+  <ver>5 代 1 期～ 5 代 2 期</ver>
+
+  <h1>基本数詞</h1>
+  <table>
+    <tr><th>単語</th><th>数</th></tr>
+    <tr><td>{nof}</td><td>0</td></tr>
+    <tr><td>{tis}</td><td>1</td></tr>
+    <tr><td>{qot}</td><td>2</td></tr>
+    <tr><td>{fex}</td><td>3</td></tr>
+    <tr><td>{mip}</td><td>4</td></tr>
+    <tr><td>{xal}</td><td>5</td></tr>
+    <tr><td>{kiq}</td><td>6</td></tr>
+    <tr><td>{ced}</td><td>7</td></tr>
+    <tr><td>{yus}</td><td>8</td></tr>
+    <tr><td>{von}</td><td>9</td></tr>
+  </table>
+  <h1>小区切り用位取り数詞</h1>
+  <table>
+    <tr><th>単語</th><th>数</th></tr>
+    <tr><td>[zem]</td><td>10</td></tr>
+    <tr><td>[bil]</td><td>100</td></tr>
+    <tr><td>[vaas]</td><td>1000</td></tr>
+  </table>
+  <h1>大区切り用位取り数詞</h1>
+  <table>
+    <tr><th>単語</th><th>数</th></tr>
+    <tr><td>[tilak]</td><td>1 万 (10<sup>4</sup>)</td></tr>
+    <tr><td>[qolak]</td><td>1 億 (10<sup>8</sup>)</td></tr>
+    <tr><td>[felak]</td><td>1 兆 (10<sup>12</sup>)</td></tr>
+    <tr><td>[milak]</td><td>1 京 (10<sup>16</sup>)</td></tr>
+    <tr><td>[xalak]</td><td>1 垓 (10<sup>20</sup>)</td></tr>
+    <tr><td>[kilak]</td><td>1 𥝱 (10<sup>24</sup>)</td></tr>
+    <tr><td>[celak]</td><td>1 穣 (10<sup>28</sup>)</td></tr>
+    <tr><td>[yulak]</td><td>1 溝 (10<sup>32</sup>)</td></tr>
+    <tr><td>[volak]</td><td>1 澗 (10<sup>36</sup>)</td></tr>
+  </table>
+
+</page>

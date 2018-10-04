@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>『メルト』</name>
+  <ver>5 代 5 期</ver>
+
+  <h1>対訳</h1>
+  <trans>
+    <li><ja>朝目が覚めて</ja><sh>{feketas a tel te pôd,}</sh></li>
+    <li><ja>真っ先に思い浮かぶ 君のこと</ja><sh>{ce pafisas a'l ofev emic ini rel aqôc, e loc.}</sh></li>
+    <li><ja>思い切って前髪を切った</ja><sh>{deqes a tel e kin kigas e sîkcaf i tel,}</sh></li>
+    <li><ja>「どうしたの?」って聞かれたくて</ja><sh>{so pacis a loc. [pa kodes e pil?]}</sh></li>
+    <li><ja>ピンクのスカート お花の髪飾り</ja><sh>{fa kômac a tel e hâl ahafas o yelicsîk i nayef,}</sh></li>
+    <li><ja>差して出かけるの</ja><sh>{fétac fovalis a'l zi sod.}</sh></li>
+    <li><ja>今日の私はかわいいのよ!</ja><sh>{te saq, salat a'l e ahál ehiv ekoz!}</sh></li>
+    <li><ja>メルト 溶けてしまいそう</ja><sh>{hanifav! hanifav li'l te sot a xêq.}</sh></li>
+    <li><ja>好きだなんて 絶対に言えない</ja><sh>{dukilat cazis okôk a'l ca loc e rîy i tel.}</sh></li>
+    <li><ja>だけど メルト 目も合わせられない</ja><sh>{dà, omez, hanifav! dukilat kázac a'l e loc.}</sh></li>
+    <li><ja>恋に恋なんてしないわ 私</ja><sh>{dunisaqat a tel e fér kavat a e rîy.}</sh></li>
+    <li><ja>だって 君のことが･･･ 好きなの</ja><sh>{vade, lesat e kin rêyas a tel e loc ekoz.}</sh></li>
+  </trans>
+  <h1>解説</h1>
+  <el>
+    <li><et>タイトル</et><ed>『メルト』</ed></li>
+    <li><et>抜粋箇所</et><ed>1 番</ed></li>
+    <li><et>作詞者</et><ed>ryo <small>様</small></ed></li>
+    <li><et>作曲者</et><ed>ryo <small>様</small></ed></li>
+    <li><et>翻訳日</et><ed><h>2147</h></ed></li>
+  </el>
+  <h1>考察点</h1>
+  <p>
+    7 フレーズ目の {te saq} が 1 音節短いため、{te} を伸ばして歌うことになる。
+  </p>
+
+</page>

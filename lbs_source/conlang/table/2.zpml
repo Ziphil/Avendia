@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>助接詞</name>
+  <ver>5 代 1 期</ver>
+
+  <h1>助接詞</h1>
+  <table>
+    <tr><th>助詞</th><th>意味</th><th></th></tr>
+    <tr><td>{a}</td><td>～は, ～が</td><td>主語</td></tr>
+    <tr><td>{e}</td><td>～を</td><td>目的語</td></tr>
+    <tr><td>{i}</td><td>～に</td><td>他動詞の対象</td></tr>
+    <tr><td>{do}</td><td>～から</td><td>出発点, 起点</td></tr>
+    <tr><td>{ca}</td><td>～に, ～へ</td><td>相手, 到達点, 目的地</td></tr>
+    <tr><td>{li}</td><td>～の</td><td>連体修飾</td></tr>
+    <tr><td>{ku}</td><td>～の</td><td>所有</td></tr>
+    <tr><td>{di}</td><td>～という</td><td>内容</td></tr>
+    <tr><td>{te}</td><td>～に</td><td>時刻</td></tr>
+    <tr><td>*</td><td>～の前に</td><td>*</td></tr>
+    <tr><td>*</td><td>～の後に</td><td>*</td></tr>
+    <tr><td>*</td><td>～の間に</td><td>*</td></tr>
+    <tr><td>{vo}</td><td>～で</td><td>場所</td></tr>
+    <tr><td>{voca}</td><td>～の上で</td><td>*</td></tr>
+    <tr><td>{vode}</td><td>～の下で</td><td>*</td></tr>
+    <tr><td>*</td><td>～の中で</td><td>*</td></tr>
+    <tr><td>*</td><td>～の外で</td><td>*</td></tr>
+    <tr><td>*</td><td>～のこちら側で</td><td>*</td></tr>
+    <tr><td>*</td><td>～の向こう側で</td><td>*</td></tr>
+    <tr><td>{ga}</td><td>～で</td><td>道具</td></tr>
+    <tr><td>{fe}</td><td>～と</td><td>仲間</td></tr>
+    <tr><td>{ve}</td><td>～で</td><td>個数, 量</td></tr>
+    <tr><td>{se}</td><td>～とともに</td><td>同伴物</td></tr>
+    <tr><td>{bu}</td><td>～なしで</td><td>*</td></tr>
+    <tr><td>{o}</td><td>～と</td><td>連言並列</td></tr>
+    <tr><td>{fa}</td><td>～または</td><td>選言並列</td></tr>
+    <tr><td>{pe}</td><td>～か</td><td>選択</td></tr>
+    <tr><td>{bi}</td><td>しかし～</td><td>逆接</td></tr>
+    <tr><td>{zale}</td><td>～なので, ～だから</td><td>理由</td></tr>
+    <tr><td>{sale}</td><td>～なので, ～だから</td><td>弱理由</td></tr>
+    <tr><td>*</td><td>～なのに</td><td>逆説理由</td></tr>
+    <tr><td>{veni}</td><td>～というのも, ～なのは</td><td>結果</td></tr>
+    <tr><td>{feni}</td><td>～というのも, ～なのは</td><td>弱結果</td></tr>
+    <tr><td>*</td><td>～なのに</td><td>逆説結果</td></tr>
+    <tr><td>{ci}</td><td>～そして</td><td>後続</td></tr>
+    <tr><td>{po}</td><td>もし～</td><td>仮定</td></tr>
+    <tr><td>{bapo}</td><td>たとえ～</td><td>逆接仮定</td></tr>
+    <tr><td>{cilo}</td><td>～のために</td><td>目的</td></tr>
+    <tr><td>{ni}</td><td>～より, ～と比べて</td><td>比較対象</td></tr>
+    <tr><td>{kude}</td><td>～の中で</td><td>比較範囲</td></tr>
+    <tr><td>*</td><td>～のように</td><td>比況</td></tr>
+    <tr><td>*</td><td>～について</td><td>話題</td></tr>
+  </table>
+
+</page>

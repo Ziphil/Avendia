@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>Error</name>
+  <base href="/error/"/>
+
+  <error>
+    <code>500</code>
+    <message>An error has occurred on the server.</message>
+  </error>
+
+</page>

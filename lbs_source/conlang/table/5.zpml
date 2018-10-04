@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>単位</name>
+  <ver>5 代 1 期</ver>
+
+  <h1>単位</h1>
+  <p>
+    シャレイア語では国際単位系を用いる。
+    ただし、シャレイア語ではシャレイア暦を用いるので、時間の基本単位はシャレイア暦での秒となる。
+    また、質量は kg ではなく g を基準と考える。
+  </p>
+  <table>
+    <tr><th>単語</th><th>略称</th><th>定義</th><th>物理量</th></tr>
+    <tr><td>{leet}</td><td>[l]</td><td>1 m</td><td>長さ</td></tr>
+    <tr><td>{gol}</td><td>[g]</td><td>1 g</td><td>質量</td></tr>
+    <tr><td>{tiir}</td><td>[t]</td><td>0.864 s</td><td>時間</td></tr>
+    <tr><td>*</td><td>*</td><td>1 A</td><td>電流</td></tr>
+    <tr><td>*</td><td>*</td><td>1 K</td><td>温度</td></tr>
+    <tr><td>*</td><td>*</td><td>1 cd</td><td>光度</td></tr>
+    <tr><td>*</td><td>*</td><td>1 mol</td><td>物質量</td></tr>
+  </table>
+  <p>
+    時間の基本単位が国際単位系と異なるため、それに応じて組立単位も異なる場合がある。
+  </p>
+  <table>
+    <tr><th>単語</th><th>略称</th><th>定義</th><th>物理量</th></tr>
+    <tr><td>*</td><td>*</td><td>1.3395919 m･g･s<sup>－2</sup>＝mN</td><td>力</td></tr>
+    <tr><td>*</td><td>*</td><td>1.3395919 m<sup>－1</sup>･g･s<sup>－2</sup>＝mPa</td><td>圧力</td></tr>
+    <tr><td>*</td><td>*</td><td>1.3395919 m<sup>2</sup>･g･s<sup>－2</sup>＝mJ</td><td>エネルギー, 仕事</td></tr>
+    <tr><td>*</td><td>*</td><td>1.5504536 m<sup>2</sup>･g･s<sup>－3</sup>＝mW</td><td>仕事率</td></tr>
+    <tr><td>*</td><td>*</td><td>0.8640000 s･A＝C</td><td>電荷</td></tr>
+    <tr><td>*</td><td>*</td><td>1.5504536 m<sup>2</sup>･g･s<sup>－3</sup>･A<sup>－1</sup>＝mV</td><td>電位差</td></tr>
+    <tr><td>*</td><td>*</td><td>1.5504536 m<sup>2</sup>･g･s<sup>－3</sup>･A<sup>－2</sup>＝mΩ</td><td>電気抵抗</td></tr>
+    <tr><td>*</td><td>*</td><td>1.1574074 s<sup>－1</sup>＝Hz</td><td>周波数</td></tr>
+    <tr><td>*</td><td>*</td><td>1 rad</td><td>平面角</td></tr>
+    <tr><td>*</td><td>*</td><td>1 sr</td><td>立体角</td></tr>
+    <tr><td>*</td><td>*</td><td>1 °C</td><td>セルシウス温度</td></tr>
+  </table>
+  <h1>接頭辞</h1>
+  <p>
+    シャレイア語は数を 4 桁で区切って読むので、それに合わせて 4 の倍数乗の接頭辞が用意されている。
+  </p>
+  <table>
+    <tr><th>接辞</th><th>略称</th><th>量</th><th></th></tr>
+    <tr><td>[ki]</td><td>[k]</td><td>10<sup>24</sup></td><td>1 Y</td></tr>
+    <tr><td>[xa]</td><td>[x]</td><td>10<sup>20</sup></td><td>100 Z</td></tr>
+    <tr><td>[mi]</td><td>[m]</td><td>10<sup>16</sup></td><td>10 P</td></tr>
+    <tr><td>[fe]</td><td>[f]</td><td>10<sup>12</sup></td><td>1 T</td></tr>
+    <tr><td>[qo]</td><td>[q]</td><td>10<sup>8</sup></td><td>100 M</td></tr>
+    <tr><td>[ti]</td><td>[t]</td><td>10<sup>4</sup></td><td>10 k</td></tr>
+    <tr><td>[se]</td><td>[s]</td><td>10<sup>2</sup></td><td>1 h</td></tr>
+    <tr><td>[zi]</td><td>[z]</td><td>10<sup>－2</sup></td><td>1 c</td></tr>
+    <tr><td>[da]</td><td>[d]</td><td>10<sup>－4</sup></td><td>100 µ</td></tr>
+    <tr><td>[cu]</td><td>[c]</td><td>10<sup>－8</sup></td><td>10 n</td></tr>
+    <tr><td>[vi]</td><td>[v]</td><td>10<sup>－12</sup></td><td>1 p</td></tr>
+    <tr><td>[na]</td><td>[n]</td><td>10<sup>－16</sup></td><td>100 a</td></tr>
+    <tr><td>[je]</td><td>[j]</td><td>10<sup>－20</sup></td><td>10 z</td></tr>
+    <tr><td>[ga]</td><td>[g]</td><td>10<sup>－24</sup></td><td>1 y</td></tr>
+  </table>
+
+</page>

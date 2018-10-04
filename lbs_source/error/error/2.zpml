@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+  <name>エラー</name>
+  <base href="/error/"/>
+
+  <error>
+    <code>403</code>
+    <message>アクセスが拒否されました。</message>
+  </error>
+
+</page>
