@@ -266,22 +266,36 @@ class ZiphilConverter
       end
     when "section-table"
       tag = TagBuilder.new("ul", "section-table")
-      element.root.each_element("h2") do |section_element|
-        section_tag = TagBuilder.new("li")
-        if section_element.attribute("number")
-          number_tag = TagBuilder.new("span", "number")
-          number_tag << section_element.attribute("number").to_s
-          link_tag = TagBuilder.new("a")
-          link_tag["href"] = "#" + section_element.attribute("number").to_s
-          text = section_element.get_text.to_s.gsub(/\{(.+?)\}/){"\[#{$1}\]"}
-          link_tag << convert_text(text)
-          section_tag << number_tag
-          section_tag << link_tag
-        else
-          section_tag << convert_children(section_element)
+      section_item_tag = TagBuilder.new("li")
+      subsection_tag = TagBuilder.new("ul")
+      element.each_xpath("/page/*[name() = 'h1' or name() = 'h2']") do |inner_element|
+        case inner_element.name
+        when "h1"
+          unless section_item_tag.content.empty?
+            section_item_tag << subsection_tag unless subsection_tag.content.empty?
+            tag << section_item_tag
+          end
+          section_item_tag = TagBuilder.new("li")
+          subsection_tag = TagBuilder.new("ul")
+          section_item_tag << convert_text(inner_element.get_text.to_s)
+        when "h2"
+          subsection_item_tag = TagBuilder.new("li")
+          if inner_element.attribute("number")
+            number_tag = TagBuilder.new("span", "number")
+            link_tag = TagBuilder.new("a")
+            number_tag << inner_element.attribute("number").to_s
+            link_tag["href"] = "#" + inner_element.attribute("number").to_s
+            link_tag << convert_text(inner_element.get_text.to_s.gsub(/\{(.+?)\}/){"\[#{$1}\]"})
+            subsection_item_tag << number_tag
+            subsection_item_tag << link_tag
+          else
+            subsection_item_tag << convert_text(inner_element.get_text.to_s)
+          end
+          subsection_tag << subsection_item_tag
         end
-        tag << section_tag
       end
+      section_item_tag << subsection_tag unless subsection_tag.content.empty?
+      tag << section_item_tag
     when "li"
       tag = pass_element(element)
     when "table"
@@ -661,6 +675,21 @@ class Element
       text.strip!
     end
     return text
+  end
+
+  def each_xpath(*args, &block)
+    if block
+      XPath.each(self, *args) do |element|
+        block.call(element)
+      end
+    else
+      enumerator = Enumerator.new do |yielder|
+        XPath.each(self, *args) do |element|
+          yielder << element
+        end
+      end
+      return enumerator
+    end
   end
 
 end
