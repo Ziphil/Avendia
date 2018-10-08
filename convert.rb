@@ -191,6 +191,9 @@ class ZiphilConverter
         tag.insert_first(additional_tag)
       end
       @description << flatten_text(element.inner_text(true))
+    when "red"
+      tag = TagBuilder.new("span", "redact")
+      tag << "&nbsp;" * element.attribute("length").to_s.to_i
     when "img"
       tag = TagBuilder.new("img", nil, false)
       tag["alt"] = ""
