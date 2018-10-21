@@ -9,9 +9,10 @@
     初学者向けのシャレイア語文法の入門書です。
     2018 年 11 月出版予定です。
   </p>
-  <h1>PDF ダウンロード</h1>
+  <h1>ソースコード</h1>
   <p>
-    現在準備中です。
+    この本の表紙を除く本文は、全て XSL-FO を用いて組版しました。
+    もととなった XML ファイルとそれを変換する XSLT コードは、<a href="https://github.com/Ziphil/ShaleianIntroduction" target="_blank">GitHub</a> で無料公開しています。
   </p>
 
 </page>
