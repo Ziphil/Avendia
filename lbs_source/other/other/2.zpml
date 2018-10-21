@@ -48,12 +48,19 @@
   <p>
     シャレイア語に関する制作物や考察などは、このサイトにメインコンテンツとしてまとめてあります。
     また、私の Twitter アカウントの 1 つである <a href="https://twitter.com/Ziphil" target="_blank">@Ziphil</a> では、シャレイア語に関するあれこれを呟きます。
+    このアカウントは私のメインアカウントでもあるので、人工言語以外の雑談なども呟きます。
+  </p>
+  <p>
+    シャレイア語を作る過程 (特に造語) を、<a href="https://www.youtube.com/channel/UCF2sTP1NGBVFr79aJiKprsg/live" target="_blank">YouTube ライブ</a>から配信しています。
+    だいたい毎週土曜日の夜に放送します。
+    よければ見てくれると嬉しいです。
+    コメントしてくれたりするとさらに喜びます。
   </p>
   <h2>プログラミング</h2>
   <p>
     プログラミングが好きです。
     サクッと何か自動化したいときは Ruby を主に使い、大きめのアプリケーションの開発には Java や Groovy を主に使います。
-    また、普段使いではありませんが、Python, JavaScript, Scala, Kotlin は書けと言われたら書けます。
+    また、普段使いではありませんが、Python, JavaScript, TypeScript, Scala, Kotlin は書けと言われたら書けます。
   </p>
   <p>
     「ZpDIC」という名前の、人工言語の辞書データの編集や閲覧に特化した辞書アプリケーションを開発しています。
