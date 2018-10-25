@@ -30,6 +30,7 @@
     <tr><td>動:他</td><td>V:T</td><td>動詞:他動詞</td></tr>
     <tr><td>名</td><td>N</td><td>名詞</td></tr>
     <tr><td>名固</td><td>Np</td><td>固有名詞</td></tr>
+    <tr><td>名単</td><td>Nu</td><td>単位名詞</td></tr>
     <tr><td>形</td><td>A</td><td>形容詞</td></tr>
     <tr><td>副動</td><td>Bv</td><td>副詞, 動詞修飾型</td></tr>
     <tr><td>副形</td><td>Ba</td><td>副詞, 形容詞修飾型</td></tr>
