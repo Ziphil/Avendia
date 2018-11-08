@@ -72,7 +72,7 @@
   </p>
   <xl>
     <li><sh>{bâgat e ces te sot.}</sh><ja>彼は今怒っている。</ja></li>
-    <li><sh>{derexit te xav i tacar.}</sh><ja>明日の昼は雨だろう。</ja></li>  
+    <li><sh>{derexit te xav i tacál.}</sh><ja>明日の昼は雨だろう。</ja></li>  
   </xl>
   <p>
     感情というのは変化するもので、常に一定の感情をもっているということはあり得ない。
@@ -106,7 +106,7 @@
     シャレイア語で「覚える」に当たる単語は {fekol} なので、日本語の通りに訳すと例えば以下のようになる。
   </p>
   <xl>
-    <li><sh>{fekolat a tel e'n becames a ces te tazîk.}</sh><ja>彼が昨日転んだということを私は覚えている。</ja></li>
+    <li><sh>{fekolat a tel e'n becames a ces te tazît.}</sh><ja>彼が昨日転んだということを私は覚えている。</ja></li>
   </xl>
   <p>
     しかし、すでに述べたように、動詞用法にはその状態になる行為を過去に行ったということを含意するので、この文では「彼が転んだという事実を覚えようとした」というニュアンスが含まれてしまう。
@@ -115,7 +115,7 @@
     したがって、「覚えている」ではなく「忘れていない」と考えて、以下のように表現するのが普通である。
   </p>
   <xl>
-    <li><sh>{dupâmat a tel e'n becames a ces te tazîk.}</sh><ja>彼が昨日転んだということを私は覚えている。</ja></li>
+    <li><sh>{dupâmat a tel e'n becames a ces te tazît.}</sh><ja>彼が昨日転んだということを私は覚えている。</ja></li>
   </xl>
 
 </page>
