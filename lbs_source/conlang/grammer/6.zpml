@@ -499,7 +499,7 @@
     その場合、[du] は活用接頭辞の後に置かれる。
   </p>
   <xl>
-    <li><sh>{câses a tel te tazik e fér aduhál.}</sh><ja>私は昨日かわいくない女の子に会った。</ja></li>
+    <li><sh>{câses a tel te tazît e fér aduhál.}</sh><ja>私は昨日かわいくない女の子に会った。</ja></li>
   </xl>
   <p>
     この例では、形容詞 {ahál} が否定され､「かわいくない」の意味になっている。
@@ -675,14 +675,14 @@
     疑問詞疑問文に答える場合は、答えが名詞ならば助詞 ＋ 名詞の形で答える。
   </p>
   <xl>
-    <li><sh>{pa lanes a loc ca amerikas te pet?} // {te tazik.}</sh><ja>あなたはいつアメリカに行ったのですか? // 昨日だ。</ja></li>
+    <li><sh>{pa lanes a loc ca amerikas te pet?} // {te tazît.}</sh><ja>あなたはいつアメリカに行ったのですか? // 昨日だ。</ja></li>
   </xl>
   <p>
     疑問詞が {pil} のときは、たいてい名詞節が回答となる。
     この場合、助詞 ＋ {kin} ＋ 節の形で答える。
   </p>
   <xl>
-    <li><sh>{pa leses a loc te tazik e pil?} // {e kin câses a tel e ʻyutih.}</sh><ja>あなたは昨日何をしましたか? // 私はユティアに会った。</ja></li>
+    <li><sh>{pa leses a loc te tazît e pil?} // {e kin câses a tel e ʻyutih.}</sh><ja>あなたは昨日何をしましたか? // 私はユティアに会った。</ja></li>
   </xl>
   <p>
     形容詞の疑問詞が用いられている場合、答えは形容詞となる。
@@ -877,7 +877,7 @@
     無相は少し特殊な相であり、これは開始相から完了相までの一連の行為を表す。
   </p>
   <xl>
-    <li><sh>{sôdes a tel e ric te tazik.}</sh><ja>私は昨日魚を食べた。</ja></li>
+    <li><sh>{sôdes a tel e ric te tazît.}</sh><ja>私は昨日魚を食べた。</ja></li>
   </xl>
   <p>
     また、動作の局面を特に指定せず、動詞が表す動作そのものを表現したい場合にも無相を用いる。
@@ -944,7 +944,7 @@
     以下のような主節の動詞に {kin} 節句を除く助詞句が 2 つ以上ある場合は、助動詞的用法の形にはできない。
   </p>
   <xl>
-    <li><sh>{kiles a tel te tazik e kin ricamos a tel.}</sh><ja>私は昨日泳ぐことができるようになった。</ja></li>
+    <li><sh>{kiles a tel te tazît e kin ricamos a tel.}</sh><ja>私は昨日泳ぐことができるようになった。</ja></li>
   </xl>
   <p>
     命令表現もこの方法を用いる。
@@ -1213,7 +1213,7 @@
   </xl>
   この文の {qazek} を修飾する節として、以下の文を考える。
   <xl>
-    <li><sh>{câses a tel e ces te tazik.}</sh><ja>私は昨日彼に会った。</ja></li>
+    <li><sh>{câses a tel e ces te tazît.}</sh><ja>私は昨日彼に会った。</ja></li>
   </xl>
   <p>
     2 文目の {ces} が 1 文目の {qazek} を表しているとすれば、この 2 つの文をまとめて「あの人は私が昨日会った男性」という意味を出すことができる。
@@ -1223,7 +1223,7 @@
     このとき、名詞を修飾している方の節は「限定節」と呼ばれる。
   </p>
   <xl>
-    <li><sh>{salot a qos e qazek câses e a tel te tazik.}</sh><ja>あの人は私が昨日会った男性だ。</ja></li>
+    <li><sh>{salot a qos e qazek câses e a tel te tazît.}</sh><ja>あの人は私が昨日会った男性だ。</ja></li>
   </xl>
   <p>
     以下のように、消された名詞に伴っていた助詞が名詞を修飾していた場合、その助詞だけの位置を変えると意味が変化してしまうので、修飾している名詞を含む動詞修飾の助詞句全体を動詞の直後に移動させる。
@@ -1654,19 +1654,19 @@
     長い限定節がついた名詞を伴う助詞句が文中に置かれたとき、どこでその助詞句が終わるのか分かりにくくなることがある。
   </p>
   <xl>
-    <li><sh>{câses a tel e tiqat lanes a e zîdsax te tazik.}</sh><ja>私は昨日学校へ行った少年に会った。</ja></li>
+    <li><sh>{câses a tel e tiqat lanes a e zîdsax te tazît.}</sh><ja>私は昨日学校へ行った少年に会った。</ja></li>
   </xl>
   <p>
-    上の例では、{tiqat} を修飾する {lanes} 以下の限定節が {e vesax} までなのか {te tazik} までなのか分からない。
+    上の例では、{tiqat} を修飾する {lanes} 以下の限定節が {e vesax} までなのか {te tazît} までなのか分からない。
     もし {e vesax} で限定節が終わるならば、その区切りを明確化するために、区切られる部分にタデックが打たれることがある。
   </p>
   <xl>
-    <li><sh>{câses a tel e tiqat lanes a e zîdsax, te tazik.}</sh><ja>私は昨日、学校へ行った少年に会った。</ja></li>
+    <li><sh>{câses a tel e tiqat lanes a e zîdsax, te tazît.}</sh><ja>私は昨日、学校へ行った少年に会った。</ja></li>
   </xl>
   <p>
     なお、このタデックの利用は最低限にとどめられる傾向がある。
-    例えば上の文は、{te tazik} を {a tel} の直後に移動させれば、区切る必要がなくなる。
-    ただし、もし {te tazik} が読者に新しく提示される情報であるならば、<a href="#23">第 23 節</a>で説明したように文末にあることが望ましいので、区切りを明確化するタデックが用いられやすい。
+    例えば上の文は、{te tazît} を {a tel} の直後に移動させれば、区切る必要がなくなる。
+    ただし、もし {te tazît} が読者に新しく提示される情報であるならば、<a href="#23">第 23 節</a>で説明したように文末にあることが望ましいので、区切りを明確化するタデックが用いられやすい。
   </p>
   <h1>その他の重要語</h1>
   <h2 number="65">代詞</h2>
