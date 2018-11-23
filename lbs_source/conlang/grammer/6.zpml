@@ -1677,7 +1677,7 @@
   </p>
   <table>
     <tr><thl></thl><th>近接</th><th>遠方</th><th>指示</th><th>疑問</th><th>不在</th><th>不定</th><th>特定</th><th>任意</th><th>同種</th><th>一般</th></tr>
-    <tr><thl>人</thl><td>{fes}</td><td>{qos}</td><td>{ces}</td><td>{pas}</td><td>{dus}</td><td>{zis}</td><td>{kos}</td><td>{ris}</td><td></td><td>{ves}</td></tr>
+    <tr><thl>人</thl><td>{fes}</td><td>{qos}</td><td>{ces}</td><td>{pas}</td><td>{dus}</td><td>{zis}</td><td>{kos}</td><td>{ris}</td><td></td><td>{vas}</td></tr>
     <tr><thl>物</thl><td>{fit}</td><td>{qut}</td><td>{cit}</td><td>{pet}</td><td>{dat}</td><td>{zat}</td><td>{kut}</td><td>{rat}</td><td>{met}</td><td></td></tr>
     <tr><thl>事</thl><td>{fal}</td><td>{qel}</td><td>{cal}</td><td>{pil}</td><td>{dol}</td><td>{zel}</td><td>{kel}</td><td>{rel}</td><td></td><td></td></tr>
     <tr><thl>場所</thl><td>{fêd}</td><td>{qôd}</td><td>{cêd}</td><td>{pâd}</td><td>{dûd}</td><td>{zîd}</td><td>{kôd}</td><td>{rîd}</td><td></td><td></td></tr>
@@ -1739,11 +1739,11 @@
     <li><sh>{kûtat a nîl i tel e sokul iku ces, dà dulat a tel e met.}</sh><ja>私の兄には自分の部屋があるのに、私にはない。</ja></li>
   </xl>
   <p>
-    一般の代詞は、人を表す {ves} のみが存在し、一般論を述べるときに用いられる。
+    一般の代詞は、人を表す {vas} のみが存在し、一般論を述べるときに用いられる。
     これはフランス語の on にある用法に似ている。
   </p>
   <xl>
-    <li><sh>{qîlos a ves e dev so kòdos a ces e lakad.}</sh><ja>ペンは文字を書くために使う。</ja></li>
+    <li><sh>{qîlos a vas e dev so kòdos a ces e lakad.}</sh><ja>ペンは文字を書くために使う。</ja></li>
   </xl>
   <p>
     指示以外の代詞は、同じ文脈で 2 回以上使われた場合、別のものを指す。
