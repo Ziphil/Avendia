@@ -52,7 +52,8 @@ class ZiphilConverter
   attr_reader :title
   attr_reader :description
 
-  def initialize(path, language)
+  def initialize(source, path, language)
+    @source = source
     @path = path
     @language = language
     @latest = false
@@ -65,8 +66,7 @@ class ZiphilConverter
   end
 
   def convert
-    source = File.read(@path)
-    element = Document.new(source, {:raw => :all}).root
+    element = Document.new(@source, {:raw => :all}).root
     convert_element(element, "")
   end
 
@@ -237,7 +237,8 @@ class WholeZiphilConverter
     paths = self.paths
     paths.each_with_index do |(path, language), index|
       before_time = Time.now
-      converter = ZiphilConverter.new(path, language)
+      source = File.read(path)
+      converter = ZiphilConverter.new(source, path, language)
       converter.instance_eval(File.read(File.dirname($0) + "/template.rb"))
       converter.convert
       converter.save
