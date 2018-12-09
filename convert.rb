@@ -27,6 +27,7 @@ class ZiphilConverter
     :conlang_table => {:ja => "一覧表", :en => "Tables"},
     :application => {:ja => "自作ソフト", :en => "Softwares"},
     :application_download => {:ja => "ダウンロード", :en => "Download"},
+    :application_web => {:ja => "Web アプリ", :en => "Web Application"},
     :language => {:ja => "自然言語", :en => "Language"},
     :language_french => {:ja => "フランス語", :en => "French"},
     :language_german => {:ja => "ドイツ語", :en => "German"},
@@ -474,6 +475,7 @@ __END__
         <a href="#{self.url_prefix}application/">#{NAMES[:application][self.language]}</a>
         <ul>
           <li><a href="#{self.url_prefix}application/download/">#{NAMES[:application_download][self.language]}</a></li>
+          <li><a href="#{self.url_prefix}application/web/">#{NAMES[:application_web][self.language]}</a></li>
         </ul>
       </li>
       <li>
